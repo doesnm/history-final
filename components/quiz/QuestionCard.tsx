@@ -123,7 +123,7 @@ function Fill({ q, answer, onAnswer, revealed }: any) {
 
 function Match({ q, answer, onAnswer, revealed }: any) {
   const mapping: Record<string, string> = answer?.type === 'match' ? answer.mapping : {};
-  const defOptions = useMemo(() => shuffle(q.pairs.map((p: any) => p.definition)), [q]);
+  const defOptions = useMemo<string[]>(() => shuffle(q.pairs.map((p: any) => p.definition as string)), [q]);
   return (
     <div className="space-y-2">
       {q.pairs.map((p: any) => {
