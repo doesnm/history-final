@@ -1,0 +1,135 @@
+{
+  "slug": "ulug-ulus-khanate",
+  "number": 3,
+  "title": "The Great Steppe: Ulug Ulus (Golden Horde) and the Kazakh Khanate (13th – first half of 15th c.)",
+  "overview": "Lecture 3 covers the Mongol conquest of Dasht-i Kipchak (1219–1224), the formation of the Ulus of Jochi (Ulug Ulus / Golden Horde) and its eastern wing Ak Orda, the rise of Moghulistan and the Abulkhair Khanate, the foundation of the Kazakh Khanate by Kerei and Janibek in 1465, and its consolidation under Kasym, Hakk-Nazar, Tauekel and Esim khans up to the early 17th century. The era saw the Mongol disruption of Turkic city-civilization, the Pax Mongolica trade network, and the eventual emergence of the Kazakhs as a distinct ethnos and statehood.",
+  "coreConcepts": [
+    { "term": "Mongol Empire", "definition": "Centralized nomadic state proclaimed in 1206 on the Onon River when Temüjin was hailed at the kurultai as Chinggis Khan ('Universal Ruler').", "example": "Administrative reform: every adult male was a warrior; army organized into Tumens (10,000) led by noyons. By 1219 Chinggis fielded ~150,000 troops." },
+    { "term": "Ulus of Jochi (Ulug Ulus / Golden Horde)", "definition": "Westernmost ulus of the Mongol Empire, assigned to Chinggis's eldest son Jochi (Zhoshy in Kazakh) – northern Zhetysu, eastern Dasht-i Kipchak up to the lower Volga.", "example": "Capitals: Sarai-Batu (founded by Batu in the 1240s) and later Sarai-Berke on the lower Volga." },
+    { "term": "Ak Orda", "definition": "Eastern wing of the Ulus of Jochi (left-wing princes, descendants of Orda); covered most of modern Kazakhstan.", "example": "Capital Sygnak on the middle Syr Darya." },
+    { "term": "Yam System", "definition": "Mongol postal-relay network with stations ~40 km apart; later adopted by Russia.", "example": "Linked the Pacific to the Mediterranean and enabled fast tax collection and trade." },
+    { "term": "Yasa of Chinggis Khan", "definition": "Code of customary law established by Chinggis Khan; the text itself has not survived but it underpinned Mongol rule across the empire.", "example": "Coexisted with Islamic and local Turkic legal traditions." },
+    { "term": "Moghulistan", "definition": "State that split from the Chagatai Ulus in the mid-14th century. Founded by Emir Puladchi (Dulat tribe) using 18-year-old Tughluk-Timur (a Chinggisid) as his nominal khan.", "example": "Capitals shifted across Almalyk, Aksu and other Zhetysu cities." },
+    { "term": "Abulkhair Khanate (1428–1468)", "definition": "Khanate of the nomadic Uzbeks in central Dasht-i Kipchak under Khan Abulkhair. In 1446 he captured Sozak, Sygnak, Ak-Korgan and Uzgend on the Syr Darya; Sygnak became his capital.", "example": "Kerei and Janibek were sultans within this khanate before their migration." },
+    { "term": "Kazakh Khanate", "definition": "State founded in 1465–1466 by sultans Kerei and Janibek when they migrated from Abulkhair's khanate into the valley of the Shu (Chu) River under the protection of Moghulistan.", "example": "First Kazakh territorial nucleus was in western Zhetysu and the Karatau foothills." },
+    { "term": "Zhuzes", "definition": "The three tribal confederations of the Kazakhs – Ulu (Senior), Orta (Middle), Kishi (Junior) – consolidated through the 16th–17th centuries.", "example": "Senior: Uysun, Dulat, Kanglı, Jalair – Zhetysu. Middle: Argyn, Naiman, Kipchak, Kerei, Konyrat, Uak – Central / Northern KZ. Junior: Alimuly, Baiuly, Zhetyru – Western KZ." },
+    { "term": "Kasym khannyn kaska zholy", "definition": "'The Bright Path of Kasym Khan' – first written Kazakh code of customary law, replacing older customary norms.", "example": "Compiled under Kasym Khan (r. 1511–1521)." },
+    { "term": "Esim khannyn eski zholy", "definition": "'The Old Path of Esim Khan' – a revised, expanded code under Esim Khan (1598–1628); legitimized rule by merit (biys, batyrs) alongside Tore-clan descent.", "example": "Often called a 'constitution' of the Kazakh Khanate." }
+  ],
+  "expandedNotes": [
+    { "heading": "Formation of the Mongol Empire (1206)", "body": "Centralized Mongol state was formed through ethnic, economic and political consolidation in Mongolia. At the 1206 kurultai on the Onon River Temüjin was proclaimed Chinggis Khan. He decreed that every adult and healthy man was a warrior – in peacetime tending herds, in war serving in arms. Forces reached ~95,000 in 1206 and ~150,000 by 1219, organized into Tumens (10,000) under noyons." },
+    { "heading": "Conquest of Dasht-i Kipchak (1219–1224)", "body": "Pre-campaign moves: 1208 pursuit of Merkits to the Irtysh; 1211 Khubilai Noyon to Semirechye, recalled by the China war; 1215 capture of Zhongdu (Beijing). The western campaign began September 1219 with ~150,000 troops plus Karluk and Uyghur allies. At Otrar, Chinggis split the army: he himself moved on Bukhara; Jochi to Yarkand and Jend; Chagatai and Ögedei besieged Otrar. The defender Gayir Khan (Inalchik) held for 5½ months – one of the most heroic episodes of the war – before the city fell. After Otrar the Mongols took Uzgend, Barchylygkent, Ashnas, Jend and Yangikent in winter 1219–1220. In 1220–1221 Khwarezm was conquered; in spring 1221 the army moved into Khorasan, Afghanistan and northern India. Subedei and Jebe invaded the Caucasus, defeated the Alans and western Kipchaks, and crushed a Russian-Kipchak army on the Kalka River (1223). The corps returned to the Irtysh in 1224. Three cities of the steppe were razed and the urban-culture decline drove down transit trade." },
+    { "heading": "Division into Uluses (1227)", "body": "On Chinggis's death in 1227 (six months after Jochi's mysterious death) the empire was divided among the sons. Tulu (the youngest) inherited Mongolia by minor's right; Chagatai received eastern Turkestan, most of Zhetysu and Maverannahr with capital at Almalyk on the Ili; Ögedei received western Mongolia and the upper Irtysh / Tarbagatai; Jochi (Zhoshy) received northern Zhetysu, eastern Dasht-i Kipchak to the lower Volga. Thus Kazakh-steppe territory fell across three uluses." },
+    { "heading": "Pax Mongolica", "body": "Despite destruction, Mongol rule created new connections across Eurasia. The elite was religiously indifferent; many later converted to various faiths. The Yasa code framed rule but is lost; the yam relay system later inspired the Russian postal network. New trade routes ran from the Pacific to the Mediterranean, linking officials, merchants and exchange travelers." },
+    { "heading": "Ulug Ulus / Golden Horde", "body": "On Jochi's death (1225) the ulus was led by his sons – Orda at the head of the left wing and Batu of the right (Chinggis appointed Batu as Jochi's successor). In 1220–1230 the Jochid ulus occupied Dasht-i Kipchak, Western Siberia, Khwarezm, the Ural region, Sary-Arka and Ulytau. The Western Campaign of Batu (1236–1242) defeated Volga Bulgaria, the western Dasht-i Kipchak, Rus principalities (Riazan, Vladimir, Kiev), then ravaged Poland and Hungary. Returning to the lower Volga, Batu founded a new state – later called Ulug Ulus or Golden Horde. Russian princes received 'labels for reigning' (yarlyks) and paid tribute but retained relative independence. Berke (1257–1266) was the first khan to take power without the great khan's approval; under his grandson Mengu-Timur the ulus became fully independent, minting its own coins." },
+    { "heading": "Peak of Ulug Ulus: Uzbek and Janibek", "body": "Apex under Uzbek Khan (1313–1341) and his son Janibek (1342–1357). Uzbek introduced Islam as the state religion. The khan's power was unlimited; around him stood the noyons (the Ulug Ulus nobility), the beklyar-bek ('prince over princes') running state affairs, viziers leading branches, darugs collecting taxes in cities and uluses, and baskaks (commanders). State structure was semi-military; capital Saray on the lower Volga, then Saray-Berke in the 14th century." },
+    { "heading": "Decline of Ulug Ulus", "body": "After Janibek, 20 khans were replaced in succession. In 1374–1375 Urus Khan rose in Ak Orda and Mamai dominated the right wing. Toktamysh briefly reunified the entire Jochid ulus – at this time Russian chronicles begin calling it 'Ulug Ulus' (Great Horde). He tried to bring Russia and Lithuania into order, campaigned in Azerbaijan and against Khwarezm, and clashed with Timur. In 1395 Timur shattered Toktamysh on the Terek River. The Mangyt biy Edyge made the last attempt to revive the ulus by toppling Toktamysh and installing puppets. Decline accelerated after Kulikovo (1380) against Rus and Timur's 1395 campaign. In the 15th century Ulug Ulus broke up into the Nogai Horde (early 15th c.), Kazan Khanate (1438), Crimean Khanate (1443), Astrakhan (1459) and Siberian Khanate (late 15th c.)." },
+    { "heading": "Post-Mongol States in Kazakhstan: Moghulistan", "body": "In the mid-14th century Moghulistan separated from the Chagataid (Khaidu) state. Since by Mongol tradition only a Chinggisid could be supreme ruler, Emir Puladchi of the Dulat tribe installed the 18-year-old Tughluk-Timur as khan. Timur's invasions threatened both Ulug-Ulus and Moghulistan; emir Kamar-ad-Din and Khan Urus of Ulug Ulus tried to act jointly against him. In 1404 Timur set out on a great campaign to conquer Zhetysu, but his death at Otrar in early 1405 ended the threat." },
+    { "heading": "Abulkhair Khanate (1427–1468)", "body": "Founded in 1427 to unify what remained of Ulug Ulus and build a centralized state under Abulkhair. In 1446 he captured Sozak, Sygnak, Ak-Korgan and Uzgend on the Syr Darya, moving his capital to Sygnak. In 1468 his troops entered Moghulistan, but near the Almaty area Abulkhair died and his army returned. With his death the Uzbek Khanate began to disintegrate." },
+    { "heading": "Foundation of the Kazakh Khanate (1465–1466)", "body": "In 1465 sultans Kerei and Janibek, descendants of Urus Khan, claimed rights to the throne. Lacking the strength to confront Abulkhair, they and clans loyal to them migrated in protest into the Shu (Chu) River valley in Moghulistan. Abulkhair tried to punish them; his 1468 campaign ended with his death. M.H. Dulati's 'Tarikh-i Rashidi' dates the foundation to 1465–1466 – the most accepted dating. Other historians propose the turn of the 15th–16th centuries (A.P. Chuloshnikov) or 1470 (T.I. Sultanov), tying the latter to the return of Janibek and Kerei to the former Abulkhair lands. In 1470 Kerei entered Turkestan; sons of Janibek (Mahmud and Irenchi) occupied Sozak and Sauran. In 1472 Muhammad Shaybani tried to retake Turkestan; defeated by Buryndyk Sultan in the Karatau Mountains, he fled to Mangyshlak. Buryndyk (eldest son of Kerei, ruled c. 1480–1511) elected khan in 1480 oversaw incorporation of all new Kazakh tribes and the Mangyts between the Volga and Urals." },
+    { "heading": "Kasym Khan (1511–1521) – the Apogee", "body": "Under Kasym the Kazakh Khanate became a state recognized by neighbors. Diplomatic, trade and military contacts opened with Moscow under Vasily III (1505–1533). Austrian diplomat Sigismund Herberstein left notes about the Kazakhs. Sairam on the Syr Darya passed under Kasym's rule; the Kazakhs took Saraichik (former Nogai capital) in the west and Tashkent in 1513. Population reached about one million. Kasym replaced old customary norms with a single code – 'Kasym khannyn kaska zholy' ('Bright Path of Khan Kasym'). Borders: Zhaiyk (Ural) River in the west; Irtysh in the east; Southern Siberian forest in the north; Syr Darya (including Tashkent) in the south. Kasym died in 1518 or 1522." },
+    { "heading": "Crisis and Hakk-Nazar (1538–1580)", "body": "After Kasym, Mamash khan ruled briefly. Tahir (1523–1533) suffered crushing defeat by the Nogai; 400,000 of his million subjects left him; he died among the Kirghiz. After Tahir, two brothers Buydash and Togym were proclaimed khans, but failed to unify. Hakk-Nazar, son of Kasym, restored the khanate – named sovereign of both Kazakhs and Kirghiz, called even 'Kalmyk khan'. Trade with Russia opened; campaigns against the Nogai recovered western territories; campaigns against the Siberian khan Kuchum boosted Russian interest. In 1573 Ivan the Terrible sent an embassy headed by Tretyak Chebukov – captured and destroyed by Kuchum; he then granted the Stroganov brothers a charter for duty-free trade with the Kazakhs. In 1579 Hakk-Nazar concluded a 'sworn alliance' with the Shaybanid Abdallah II; killed in 1580 in civil strife." },
+    { "heading": "Tauekel (1582–1598) and Esim (1598–1628)", "body": "Tauekel broke with Abdallah II and in 1583 captured cities in the Turkestan oasis, approaching Tashkent. In 1597–1598 he seized Turkestan, Tashkent (held for 200 years), Ferghana and Samarkand with Naqshbandi sheikh support. In 1594 he sent envoy Qul-Muhammed to Moscow to ransom his nephew Uraz-Muhammed, held by Russia since 1580; in 1595 Velyamin Stepanov's embassy reciprocated. Tauekel died in Tashkent. Esim signed peace with Samarkand and Bukhara; his major campaigns regained Tashkent, Turkestan, Sozak and Sygnak in 1611, then took Tashkent again. Esim's main rival was Tursun Muhammad – twice sworn vassal, twice violator. Esim accepted Tursun as co-ruler ('dual power'); the conflict ended with Tursun's death in 1627. In 1628 Bukhara handed over Tashkent and Turkestan to Esim. He extended power to Sygnak, Sozak, Sauran and Andijan; established relations with Kazan and Siberia. Esim is remembered for the legal code 'Esim khannyn eski zholy' – 'Old Path of Esim Khan' – a kind of constitution that legitimized rule by biys and batyrs alongside Tore-clan birth." },
+    { "heading": "Tauke Khan and Zhety-Zhargy (late 17th c.)", "body": "Tauke Khan (r. 1680–1715) issued 'Zhety Zhargy' ('Seven Establishments') – the most comprehensive Kazakh customary-law code – at the end of the 17th century. Used to settle land, blood, family and tax disputes; remained a reference well into the Russian colonial period." }
+  ],
+  "keyScholars": [
+    { "name": "Chinggis Khan", "years": "c. 1162–1227", "contribution": "Founder of the Mongol Empire (1206); conquered Dasht-i Kipchak in 1219–1224." },
+    { "name": "Jochi", "years": "c. 1182–1225", "contribution": "Eldest son of Chinggis; received the westernmost ulus that became the Golden Horde." },
+    { "name": "Batu Khan", "years": "1207–1255", "contribution": "Founder of Ulug Ulus (Golden Horde); commander of the Western Campaign (1236–1242)." },
+    { "name": "Uzbek Khan", "years": "r. 1313–1341", "contribution": "Made Islam the state religion of the Golden Horde at its peak." },
+    { "name": "Toktamysh", "years": "?–1406", "contribution": "Last Jochid khan to reunify Ulug Ulus; defeated by Timur on the Terek in 1395." },
+    { "name": "Tughluk-Timur", "years": "c. 1329–1363", "contribution": "First khan of Moghulistan, installed by Emir Puladchi." },
+    { "name": "Abulkhair (Uzbek khan)", "years": "1412–1468", "contribution": "Founded the Uzbek Khanate (1427); captured Sygnak in 1446." },
+    { "name": "Kerei and Janibek", "years": "15th c.", "contribution": "Sultans who migrated from Abulkhair to Moghulistan and founded the Kazakh Khanate in 1465–1466." },
+    { "name": "Buryndyk Khan", "years": "r. c. 1480–1511", "contribution": "Defeated Muhammad Shaybani in the Karatau (1472); consolidated all Kazakh tribes plus the Mangyts." },
+    { "name": "Kasym Khan", "years": "c. 1445–1521", "contribution": "'Gatherer of Kazakh lands'; ~1 million subjects; first written code 'Kasym khannyn kaska zholy'." },
+    { "name": "Hakk-Nazar Khan", "years": "r. 1538–1580", "contribution": "Restored the khanate after the Tahir crisis; opened trade with Russia and Shaybanids." },
+    { "name": "Tauekel Khan", "years": "r. 1582–1598", "contribution": "Seized Turkestan, Tashkent, Ferghana and Samarkand; first embassies to Moscow." },
+    { "name": "Esim Khan", "years": "r. 1598–1628", "contribution": "Author of the legal code 'Esim khannyn eski zholy'." },
+    { "name": "Tauke Khan", "years": "r. 1680–1715", "contribution": "Issued 'Zhety Zhargy' ('Seven Establishments') – the comprehensive customary-law code." },
+    { "name": "Muhammad Haidar Dulati", "years": "1499–1551", "contribution": "Author of 'Tarikh-i Rashidi' – principal source dating the foundation of the Kazakh Khanate to 1465–1466." }
+  ],
+  "comparativeTables": [
+    {
+      "title": "Mongol Uluses and Kazakh Territory (after 1227)",
+      "headers": ["Ulus", "Heir", "Territory Touching Kazakhstan", "Capital"],
+      "rows": [
+        ["Jochi Ulus (Ulug Ulus / Golden Horde)", "Jochi (then Batu)", "Northern Zhetysu, eastern Dasht-i Kipchak to lower Volga", "Saray-Batu → Saray-Berke"],
+        ["Chagatai Ulus", "Chagatai", "Eastern Turkestan, most of Zhetysu, Maverannahr", "Almalyk on the Ili"],
+        ["Ögedei Ulus", "Ögedei", "Upper Irtysh, Tarbagatai", "Western Mongolia"]
+      ]
+    },
+    {
+      "title": "The Three Zhuzes",
+      "headers": ["Zhuz", "Territory", "Main Clans"],
+      "rows": [
+        ["Senior (Ulu)", "Zhetysu, south-east", "Uysun, Dulat, Kanglı, Jalair"],
+        ["Middle (Orta)", "Central and northern KZ", "Argyn, Naiman, Kipchak, Kerei, Konyrat, Uak"],
+        ["Junior (Kishi)", "Western KZ", "Alimuly, Baiuly, Zhetyru"]
+      ]
+    },
+    {
+      "title": "Kazakh Legal Codes",
+      "headers": ["Code", "Khan", "Approx. date", "Purpose"],
+      "rows": [
+        ["Kasym khannyn kaska zholy", "Kasym", "1510s", "First written code; centralization of customary law"],
+        ["Esim khannyn eski zholy", "Esim", "Early 17th c.", "Reform; legitimized non-Tore biys and batyrs"],
+        ["Zhety Zhargy", "Tauke", "Late 17th c.", "Comprehensive 'Seven Establishments'"]
+      ]
+    }
+  ],
+  "realWorldExamples": [
+    "Otrar's 5½-month resistance to Chinggis Khan remains a symbol of Kazakh defiance; the site is an archaeological reserve.",
+    "The mausoleum of Khoja Ahmed Yasawi in Turkestan – ordered by Timur in the late 14th c. – is the most important medieval monument in Kazakhstan and a UNESCO site.",
+    "The grave of Jochi (Jochi-khan mausoleum) in the Ulytau region is a major Kazakh historical site.",
+    "Russian and Persian terms like 'tamga', 'yarlyk', 'baskak', 'darug' enter the Russian language directly from this period.",
+    "The Kazakh proverb cited in the manual – 'Kasym paved a new road, Yesim strengthened the old road' – encapsulates the legal continuity from Kasym to Esim to Tauke."
+  ],
+  "timeline": [
+    { "year": 1206, "event": "Temüjin proclaimed Chinggis Khan at the Onon kurultai" },
+    { "year": 1219, "event": "Beginning of the Mongol campaign against Khwarezm and Dasht-i Kipchak; siege of Otrar" },
+    { "year": 1220, "event": "Fall of Otrar after 5½ months" },
+    { "year": 1223, "event": "Battle of the Kalka River – Mongols defeat Rus-Kipchak army" },
+    { "year": 1224, "event": "Mongol corps returns to the Irtysh; Kazakh steppes fully conquered" },
+    { "year": 1227, "event": "Death of Chinggis Khan; division of the empire among his sons" },
+    { "year": "1236–1242", "event": "Batu's Western Campaign; foundation of Ulug Ulus" },
+    { "year": "1313–1341", "event": "Uzbek Khan – peak of Ulug Ulus; Islam as state religion" },
+    { "year": 1347, "event": "Moghulistan separates from the Chagataid state" },
+    { "year": 1380, "event": "Battle of Kulikovo – first major Russian victory over the Mongols" },
+    { "year": 1395, "event": "Timur defeats Toktamysh on the Terek River" },
+    { "year": 1405, "event": "Death of Timur at Otrar during his Zhetysu campaign" },
+    { "year": 1427, "event": "Foundation of the Abulkhair (Uzbek) Khanate" },
+    { "year": 1446, "event": "Abulkhair captures Sozak, Sygnak, Ak-Korgan, Uzgend – Sygnak the capital" },
+    { "year": "1465–1466", "event": "Kerei and Janibek migrate to the Shu valley – foundation of the Kazakh Khanate" },
+    { "year": 1468, "event": "Abulkhair dies on campaign into Moghulistan; his khanate disintegrates" },
+    { "year": 1480, "event": "Buryndyk Khan elected" },
+    { "year": "1511–1521", "event": "Apex under Kasym Khan; the 'Bright Path' code; ~1 million subjects" },
+    { "year": "1538–1580", "event": "Hakk-Nazar Khan restores the khanate" },
+    { "year": 1579, "event": "Sworn alliance with Shaybanid Abdallah II" },
+    { "year": "1597–1598", "event": "Tauekel takes Turkestan, Tashkent, Ferghana, Samarkand" },
+    { "year": "1598–1628", "event": "Esim Khan; 'Old Path' legal code; dual power with Tursun resolved 1627" },
+    { "year": "1680–1715", "event": "Tauke Khan; Zhety Zhargy ('Seven Establishments')" }
+  ],
+  "mustMemorize": [
+    "1206 – Chinggis Khan proclaimed at the kurultai on the Onon",
+    "1219–1224 – Mongol conquest of Dasht-i Kipchak; Otrar holds for 5½ months under Gayir Khan",
+    "1227 – division into 3 uluses (Jochi, Chagatai, Ögedei) that all touch Kazakhstan",
+    "1313–1341 – Uzbek Khan introduces Islam in Ulug Ulus",
+    "1395 – Timur defeats Toktamysh on the Terek River",
+    "1427 – Abulkhair Khanate founded; 1446 capital Sygnak",
+    "1465–1466 – Kerei and Janibek found the Kazakh Khanate (M.H. Dulati's date)",
+    "Kasym Khan (1511–1521) – 'Bright Path' code; ~1 million subjects",
+    "Tauekel (1582–1598) – Turkestan and Tashkent (held for 200 years)",
+    "Esim (1598–1628) – 'Old Path' code; Tauke (late 17th c.) – Zhety Zhargy",
+    "Three zhuzes: Senior, Middle, Junior"
+  ],
+  "cheatSheet": "Mongol (1206) → Jochi/Chagatai/Ögedei uluses (1227) → Ulug Ulus peak (Uzbek 1313) → break-up (Timur 1395) → Moghulistan + Abulkhair → Kazakh Khanate (1465 Kerei + Janibek) → Buryndyk → Kasym → Hakk-Nazar → Tauekel → Esim → Tauke (Zhety Zhargy)\nLegal: Kasym 'Bright Path' → Esim 'Old Path' → Tauke 'Seven Establishments'\nZhuzes: Ulu / Orta / Kishi",
+  "mnemonics": [
+    "1465 = 'fourteen-sixty-five': KEREI + JANIBEK launch the Kazakh state",
+    "U-O-K – Ulu, Orta, Kishi (Senior, Middle, Junior – alphabetical order of zhuzes)",
+    "K-J: Kerei and Janibek (always paired)",
+    "Tauke = '7' = Zhety Zhargy ('seven establishments')",
+    "Kasym 'Bright', Esim 'Old', Tauke 'Seven' – B-O-S codes",
+    "'Otrar 5½' – heroic siege duration etched in Kazakh memory"
+  ]
+}

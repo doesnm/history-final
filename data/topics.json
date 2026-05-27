@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "antiquity",
+    "number": 1,
+    "title": "Kazakhstan in Antiquity: Prehistoric Evolution & Nomadic Civilization",
+    "shortTitle": "Antiquity & Nomads",
+    "emoji": "🦴",
+    "period": "2.5 mln years ago – 4th c. BCE",
+    "conceptCount": 6,
+    "questionCount": 12
+  },
+  {
+    "slug": "turkic-era",
+    "number": 2,
+    "title": "The Turkic Era on the Territory of Kazakhstan",
+    "shortTitle": "Turkic Era",
+    "emoji": "🐺",
+    "period": "6th – 12th cc.",
+    "conceptCount": 6,
+    "questionCount": 12
+  },
+  {
+    "slug": "ulug-ulus-khanate",
+    "number": 3,
+    "title": "Great Steppe: Ulug Ulus & Kazakh Khanate (XIII–XV cc.)",
+    "shortTitle": "Ulug Ulus & Kazakh Khanate",
+    "emoji": "⚔️",
+    "period": "13th – first half of 15th c.",
+    "conceptCount": 7,
+    "questionCount": 14
+  },
+  {
+    "slug": "russian-colonization",
+    "number": 4,
+    "title": "Colonization of Kazakhstan by the Russian Empire",
+    "shortTitle": "Russian Colonization",
+    "emoji": "🏰",
+    "period": "18th – 19th cc.",
+    "conceptCount": 6,
+    "questionCount": 12
+  },
+  {
+    "slug": "liberation-struggle",
+    "number": 5,
+    "title": "People's Liberation Struggle Against Colonialism",
+    "shortTitle": "Liberation Struggle",
+    "emoji": "🔥",
+    "period": "18th – early 20th c.",
+    "conceptCount": 5,
+    "questionCount": 10
+  },
+  {
+    "slug": "alash",
+    "number": 6,
+    "title": "National Liberation: Alash Movement (early 20th c.)",
+    "shortTitle": "Alash Orda",
+    "emoji": "📜",
+    "period": "1905 – 1920",
+    "conceptCount": 6,
+    "questionCount": 12
+  },
+  {
+    "slug": "soviet-modernization",
+    "number": 7,
+    "title": "Soviet Power: Political & Socio-Economic Modernization",
+    "shortTitle": "Soviet Modernization",
+    "emoji": "⚙️",
+    "period": "1917 – 1953",
+    "conceptCount": 6,
+    "questionCount": 12
+  },
+  {
+    "slug": "soviet-reforms-perestroika",
+    "number": 8,
+    "title": "Soviet Reforms & Perestroika in Kazakhstan",
+    "shortTitle": "Reforms & Perestroika",
+    "emoji": "🏗️",
+    "period": "1953 – 1991",
+    "conceptCount": 6,
+    "questionCount": 12
+  },
+  {
+    "slug": "independence",
+    "number": 9,
+    "title": "Revival of National Statehood & Development",
+    "shortTitle": "Independent Kazakhstan",
+    "emoji": "🇰🇿",
+    "period": "1991 – present",
+    "conceptCount": 10,
+    "questionCount": 12
+  },
+  {
+    "slug": "foreign-policy",
+    "number": 10,
+    "title": "Foreign Policy & International Relations of RK",
+    "shortTitle": "Foreign Policy",
+    "emoji": "🌐",
+    "period": "1991 – present",
+    "conceptCount": 9,
+    "questionCount": 10
+  }
+]
