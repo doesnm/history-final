@@ -154,13 +154,27 @@ function Match({ q, answer, onAnswer, revealed }: any) {
 
 function Explanation({ question, answer }: { question: Question; answer: Answer }) {
   const ok = gradeOne(question, answer);
+
+  let correctHint: string | null = null;
+  if (!ok) {
+    if (question.type === 'mcq') {
+      const letter = String.fromCharCode(65 + question.correctIndex);
+      correctHint = `Correct answer: ${letter}. ${question.options[question.correctIndex]}`;
+    } else if (question.type === 'truefalse') {
+      correctHint = `Correct answer: ${question.answer ? 'True' : 'False'}`;
+    } else if (question.type === 'fill') {
+      correctHint = `Accepted answers: ${question.answers.join(' / ')}`;
+    }
+  }
+
   return (
     <div className={cn(
       'mt-4 p-3 rounded-xl text-sm border',
       ok ? 'border-emerald-500/30 bg-emerald-500/5' : 'border-red-500/30 bg-red-500/5',
     )}>
       <div className="font-semibold">{ok ? '✅ Correct' : '❌ Incorrect'}</div>
-      <div className="mt-1">{question.explanation}</div>
+      {correctHint && <div className="mt-1 font-medium text-[color:var(--foreground)]">{correctHint}</div>}
+      {question.explanation && <div className="mt-1 text-[color:var(--muted)]">{question.explanation}</div>}
     </div>
   );
 }

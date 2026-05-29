@@ -49,10 +49,10 @@ export function QuizRunner({
 
   function setAnswer(a: Answer) {
     setAnswers(s => ({ ...s, [current.id]: a }));
+    if (mode === 'practice') setRevealed(s => ({ ...s, [current.id]: true }));
   }
 
   function next() {
-    if (mode === 'practice') setRevealed(s => ({ ...s, [current.id]: true }));
     if (idx + 1 >= ordered.length) {
       submit();
     } else {
