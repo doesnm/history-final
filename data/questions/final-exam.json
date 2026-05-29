@@ -1,0 +1,1336 @@
+[
+  {
+    "id": "fe-1", "topic": "final-exam", "type": "mcq",
+    "question": "What did the word 'qazaq' mean in the 15th-century political context?",
+    "options": ["A person engaged in religious preaching", "An official of the khan's administration", "A political term for groups that broke away from a khan's authority", "A soldier in imperial service"],
+    "correctIndex": 2,
+    "explanation": "'Qazaq' originally meant a free person or one who had separated from a political group — those who broke away from a khan's authority and lived independently on the steppe."
+  },
+  {
+    "id": "fe-2", "topic": "final-exam", "type": "mcq",
+    "question": "According to Harari's 'Sapiens', what is the main idea behind his claim that the Agricultural Revolution was a 'fraud'?",
+    "options": ["Farmers had a better diet than hunter-gatherers", "Farming gave people more free time", "Agriculture meant more work without proportionally better living conditions", "Farming ended all forms of violence"],
+    "correctIndex": 2,
+    "explanation": "Harari argues that agriculture created more food but also more work, disease, social inequality, and ecological damage — farmers worked harder than hunter-gatherers for a worse diet."
+  },
+  {
+    "id": "fe-3", "topic": "final-exam", "type": "mcq",
+    "question": "According to 'Sapiens', what distinguished the language of Homo sapiens from that of other species? (Choose the best answer)",
+    "options": ["Use of high-frequency sounds", "Ability to discuss abstract concepts and spread social narratives", "Focus exclusively on practical information", "A limited but precise vocabulary"],
+    "correctIndex": 1,
+    "explanation": "Harari argues Sapiens developed a 'gossip language' able to discuss abstract concepts (myths, gods, nations) and coordinate large groups — the foundation of the Cognitive Revolution."
+  },
+  {
+    "id": "fe-4", "topic": "final-exam", "type": "mcq",
+    "question": "Why did other human species (Neanderthals, Denisovans) disappear, according to 'Sapiens'?",
+    "options": ["Global pandemics", "Volcanic eruptions", "Competition with Homo sapiens", "Loss of fire-making ability"],
+    "correctIndex": 2,
+    "explanation": "Harari attributes the extinction of other human species primarily to competition with Homo sapiens, who outcompeted them cognitively, socially, and militarily."
+  },
+  {
+    "id": "fe-5", "topic": "final-exam", "type": "mcq",
+    "question": "Which scientist proved that the world's first horse domestication took place on the territory of the Botai archaeological culture?",
+    "options": ["K. Akishev", "Z. Samashev", "S. Tolstov", "V. Zaibert", "K. Baypakov"],
+    "correctIndex": 3,
+    "explanation": "Victor Zaibert excavated the Botai site in northern Kazakhstan and demonstrated the earliest evidence of horse domestication (~3500–3000 BCE) through dental wear and mare's milk residues."
+  },
+  {
+    "id": "fe-6", "topic": "final-exam", "type": "mcq",
+    "question": "What does Saka animal-style art primarily symbolize?",
+    "options": ["Decline of spiritual life", "Domestic agricultural labor", "Cycles of nature, movement, and warrior ideals", "Sedentary farming practices"],
+    "correctIndex": 2,
+    "explanation": "Saka 'animal style' art — depictions of predators, prey, and mythical beasts in dynamic combat — expressed nomadic values: cycles of nature, cosmic struggle, and warrior identity."
+  },
+  {
+    "id": "fe-7", "topic": "final-exam", "type": "mcq",
+    "question": "The impact of horse domestication on Kazakh steppe societies was primarily:",
+    "options": ["Decreased mobility of groups", "Expansion of nomadic pastoralism and steppe empires", "Increase in hunting practices", "Decline of long-distance trade"],
+    "correctIndex": 1,
+    "explanation": "Horse domestication (first at Botai, ~3500 BCE) enabled nomadic pastoralism, long-distance warfare and migration, and ultimately the great steppe empires from the Scythians to the Mongols."
+  },
+  {
+    "id": "fe-8", "topic": "final-exam", "type": "mcq",
+    "question": "Year of formation of the Turkic Khaganate:",
+    "options": ["545", "552", "558", "565", "603"],
+    "correctIndex": 1,
+    "explanation": "The Göktürk (Turkic) Khaganate was founded in 552 CE when Bumin Khagan defeated the Rouran Khaganate."
+  },
+  {
+    "id": "fe-9", "topic": "final-exam", "type": "mcq",
+    "question": "The Turkic yabgu-khagan who expanded westward in the 550s–560s CE, younger brother of Bumin, was:",
+    "options": ["Istemi", "Kara-Issyk", "Taspar", "Mukan", "Bilge"],
+    "correctIndex": 0,
+    "explanation": "Istemi (Sizabul) was Bumin's younger brother who led the Western Turkic forces, expanding into Central Asia, the Volga region, and allying with Byzantium against Sasanian Iran."
+  },
+  {
+    "id": "fe-10", "topic": "final-exam", "type": "mcq",
+    "question": "Alongside Bumin Khagan, who was the co-founding Khagan of the Turkic Khaganate?",
+    "options": ["Suluk", "Kul Tegin", "Mukan", "Tonyukuk", "Bilge Khan"],
+    "correctIndex": 2,
+    "explanation": "Mukan (Muqan) Khagan (r. 553–572) was Bumin's son and co-founder, who expanded the Khaganate to its greatest territorial extent after his father's death."
+  },
+  {
+    "id": "fe-11", "topic": "final-exam", "type": "mcq",
+    "question": "Against which rival power did the Turkic Khaganate form its strategic alliance with Bei-Chi?",
+    "options": ["Iran (Sasanians)", "Tibet", "Byzantium", "Arab Caliphate", "Rourans"],
+    "correctIndex": 4,
+    "explanation": "The early Turkic Khaganate initially allied with the Chinese state of Bei-Chi against the Rourans, their former overlords whom Bumin defeated to establish the Khaganate in 552."
+  },
+  {
+    "id": "fe-12", "topic": "final-exam", "type": "mcq",
+    "question": "The Turkic Khaganate concluded a military-trade alliance with Byzantium against which state?",
+    "options": ["China", "Tibet", "Rouran Khaganate", "Hephthalite state", "Arab Caliphate"],
+    "correctIndex": 3,
+    "explanation": "Istemi allied with Byzantine Emperor Justin II against Sasanian Iran (565–567 CE), seeking to bypass the Persian control over Silk Road trade routes and jointly defeat the Hephthalites."
+  },
+  {
+    "id": "fe-13", "topic": "final-exam", "type": "truefalse",
+    "question": "The two 'wings' of the Western Turkic Khaganate were called the Dulu and the Nushibi.",
+    "answer": true,
+    "explanation": "The Western Turkic Khaganate's ten tribes (On Ok) were divided into two wings: the right (western) Dulu tribes and the left (eastern) Nushibi tribes."
+  },
+  {
+    "id": "fe-14", "topic": "final-exam", "type": "mcq",
+    "question": "The Karluks played a decisive role in the Battle of:",
+    "options": ["Samarkand", "Atlakh (Talas)", "Otrar", "Derbent", "Syganak"],
+    "correctIndex": 1,
+    "explanation": "At the Battle of Atlakh/Talas (751 CE), the Karluks switched sides from the Tang Chinese to the Arab Abbasids, decisively determining the outcome in favor of the Arabs."
+  },
+  {
+    "id": "fe-15", "topic": "final-exam", "type": "mcq",
+    "question": "What was the basis of the economy of the early Turkic peoples?",
+    "options": ["Cattle breeding (nomadic pastoralism)", "Agriculture", "Hunting", "Gathering", "Fishing"],
+    "correctIndex": 0,
+    "explanation": "The early Turks were nomadic pastoralists; cattle (and horse) breeding was the foundation of their economy, supplemented by warfare, trade, and tribute from settled peoples."
+  },
+  {
+    "id": "fe-16", "topic": "final-exam", "type": "mcq",
+    "question": "The original name of the Golden Horde in Turkic-language historical sources was:",
+    "options": ["Ulys of Khubilay", "Blue Horde", "Nogai Horde", "Uluq Ulys", "Ulys of Juchi"],
+    "correctIndex": 3,
+    "explanation": "In Turkic sources the Golden Horde was called 'Uluq Ulys' (Great Ulus/State) — the term 'Golden Horde' came from Russian chronicles referring to the golden tent of the Khan."
+  },
+  {
+    "id": "fe-17", "topic": "final-exam", "type": "mcq",
+    "question": "Under which Khans did the Ulug Ulus (Golden Horde) reach its greatest prosperity?",
+    "options": ["During the reign of Urus Khan", "During periods of Mamai and Toktamysh", "Uzbek Khan and Janibek Khan", "Uzbek Khan and Mamai", "Berke Khan"],
+    "correctIndex": 2,
+    "explanation": "The Golden Horde reached its peak under Uzbek Khan (r. 1313–1341), who converted the state to Islam, and his son Janibek Khan (r. 1342–1357), known as 'just' khan."
+  },
+  {
+    "id": "fe-18", "topic": "final-exam", "type": "mcq",
+    "question": "What accelerated the fall of the Golden Horde? (choose the best answer)",
+    "options": [
+      "Defeat at the Battle of Kulikovo (1380) and Timur's campaign (1395)",
+      "Agreement with Poland and strengthening of Mogulistan",
+      "Chinese invasion from the east",
+      "Internal religious conflicts between Muslims and Buddhists"
+    ],
+    "correctIndex": 0,
+    "explanation": "Two blows destroyed the Golden Horde: the defeat at Kulikovo Field (1380) which weakened Mamai's power, and Timur's devastating campaign (1395) which crushed Toktamysh and burned Sarai."
+  },
+  {
+    "id": "fe-19", "topic": "final-exam", "type": "mcq",
+    "question": "Why did the majority population of the western steppe become Turkic in what was nominally a 'Mongol' state (Golden Horde)?",
+    "options": [
+      "The Mongols forcibly expelled Turkic peoples to Central Asia",
+      "Turkicization and assimilation of the Mongol minority by the Turkic majority",
+      "Mass resettlement of Turks from China",
+      "The Turks disappeared from the steppe entirely"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Mongols were a small ruling minority; surrounded by a vast Turkic (Kipchak) population, they were gradually assimilated linguistically and culturally — the process known as Turkicization."
+  },
+  {
+    "id": "fe-20", "topic": "final-exam", "type": "mcq",
+    "question": "Select three major consequences of Timur's campaign against the Ulug Ulus (1395): (choose the best combination)",
+    "options": [
+      "Unification of all Mongol khanates under Timur",
+      "Collapse of Toktamysh's rule, devastation of Jochid territories, rise of independent khanates",
+      "Mongols converted to Buddhism; China expanded westward",
+      "The Silk Road was permanently destroyed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Timur's 1395 campaign: defeated and deposed Toktamysh, burned Sarai and Astrakhan, devastated the Jochid territories — directly enabling the fragmentation of the Golden Horde into successor khanates."
+  },
+  {
+    "id": "fe-21", "topic": "final-exam", "type": "mcq",
+    "question": "Which legal code was introduced by Qasym Khan?",
+    "options": ["Zhety Zhargy", "Great Yasa of Genghis Khan", "Qasym Khannyn Qaska Zholy", "Esim Khannyn Esqi Zholy", "Sharia Law"],
+    "correctIndex": 2,
+    "explanation": "'Qasym Khannyn Qaska Zholy' (The Straight Path of Qasym Khan) was the legal code of Qasym Khan (r. ~1511–1518), distinct from Tauke Khan's later Zhety Zhargy."
+  },
+  {
+    "id": "fe-22", "topic": "final-exam", "type": "mcq",
+    "question": "The code of laws 'Zhety Zhargy' (Seven Regulations) was created under which Khan?",
+    "options": ["Abulkhair Khan", "Ablai Khan", "Tauke Khan", "Kasym Khan", "Janibek Khan"],
+    "correctIndex": 2,
+    "explanation": "Tauke Khan (r. 1680–1718) created the Zhety Zhargy together with the three great biys — Tole Bi, Kazybek Bi, and Aiteke Bi — to unify the three Kazakh Zhuz against the Dzungars."
+  },
+  {
+    "id": "fe-23", "topic": "final-exam", "type": "mcq",
+    "question": "Which event demonstrated Zhangir (Jangir) Khan's military leadership?",
+    "options": ["Battle of Orbulak", "Capture of Tashkent", "Treaty with the Nogai Horde", "Siege of Otrar", "Invasion of Samarkand"],
+    "correctIndex": 0,
+    "explanation": "At the Battle of Orbulak (1643), Zhangir Khan with ~600 Kazakhs used defensive fortifications to hold off a Dzungar force of 50,000, a legendary feat of Kazakh resistance."
+  },
+  {
+    "id": "fe-24", "topic": "final-exam", "type": "mcq",
+    "question": "Which event is referred to as 'Aktaban Shubryndy' (Barefoot Flight)?",
+    "options": [
+      "Russian colonial expansion into northern Kazakhstan",
+      "Mongol invasion of the 13th century",
+      "The devastating Dzungar attack of 1723 that forced Kazakhs to flee",
+      "The adoption of Islam by Kazakhs",
+      "Establishment of Kazakh-Russian relations"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Aktaban Shubryndy' (1723) was the catastrophic Dzungar surprise attack that forced massive Kazakh displacement southward — one of the greatest tragedies in Kazakh history, sparking calls for unified resistance."
+  },
+  {
+    "id": "fe-25", "topic": "final-exam", "type": "mcq",
+    "question": "At the beginning of the 18th century, the main threat to the Kazakh Khanate came from:",
+    "options": ["Safavid Iran", "Qing China", "Bashkirs", "Dzungars (Oirats)", "Mughal India"],
+    "correctIndex": 3,
+    "explanation": "The Dzungar Khanate (Oirats of western Mongolia) was the existential threat to the Kazakhs in the early 18th century, culminating in the Great Disaster (Aktaban Shubryndy) of 1723."
+  },
+  {
+    "id": "fe-26", "topic": "final-exam", "type": "mcq",
+    "question": "Which Khan of the Younger Zhuz took the initiative to organize resistance to the Dzungars in 1723–1730?",
+    "options": ["Bolat", "Abulkhair", "Sameke", "Nuraly", "Eraly"],
+    "correctIndex": 1,
+    "explanation": "Abulkhair Khan of the Younger Zhuz was the driving force behind organizing Kazakh resistance against the Dzungars in 1723–1730, and later sought Russian military protection (1731)."
+  },
+  {
+    "id": "fe-27", "topic": "final-exam", "type": "mcq",
+    "question": "Who headed the Russian embassy to administer the oath of Khan Abulkhair's protectorate in 1731?",
+    "options": ["I.I. Neplyuev", "Kabanbai Batyr", "A.I. Tevkelev", "M. Zinoviev", "A. Pisarev"],
+    "correctIndex": 2,
+    "explanation": "A.I. Tevkelev (Kutlu-Mukhammad Tevelev) was sent by Empress Anna Ioannovna to formally administer the oath of allegiance from Abulkhair Khan and accept the Younger Zhuz into Russian protection."
+  },
+  {
+    "id": "fe-28", "topic": "final-exam", "type": "mcq",
+    "question": "In battle, young Ablai defeated the famous Dzungar warrior:",
+    "options": ["Galdan", "Tseren", "Sharysh", "Aiuka", "Boshokty"],
+    "correctIndex": 2,
+    "explanation": "Young Ablai's single-combat defeat of the Dzungar warrior Sharysh in the 1730s made him a hero and earned him the honorific 'Ablai' (derived from the battle-cry of the Kazakh hero Ablai Sultan)."
+  },
+  {
+    "id": "fe-29", "topic": "final-exam", "type": "mcq",
+    "question": "Ablai Khan's policy toward Russia and China is best characterized as:",
+    "options": [
+      "China-directed (pro-Qing)",
+      "Russia-directed (pro-Russian)",
+      "A maneuvering (bilateral) policy — balancing between both powers",
+      "Pan-Islamist policy",
+      "Pan-Turkist policy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ablai Khan skillfully played Russia and China against each other, accepting nominal protectorates from both while maintaining effective independence — the classic steppe 'maneuvering policy'."
+  },
+  {
+    "id": "fe-30", "topic": "final-exam", "type": "mcq",
+    "question": "Which of the following battles (3 correct) were Kazakh victories over the Dzungars? Choose the correct combination:",
+    "options": [
+      "Orbulak, Anyrakay, Bulanty",
+      "Atlakh, Orbulak, Otrar",
+      "Kulikovo, Anyrakay, Bulanty",
+      "Syganak, Orbulak, Atlakh"
+    ],
+    "correctIndex": 0,
+    "explanation": "The three key Kazakh victories over the Dzungars: Orbulak (1643, Zhangir Khan), Bulanty/Karasyt (1726), and Anyrakay (1730) — the decisive battle that ended Dzungar supremacy."
+  },
+  {
+    "id": "fe-31", "topic": "final-exam", "type": "mcq",
+    "question": "What three cities did Abulkhair Khan conquer in 1446? (Select the correct combination)",
+    "options": [
+      "Almalyk, Almaty, Turkestan",
+      "Sozak, Syganak, Ak-Korgan",
+      "Suyab, Almalyk, Sozak",
+      "Samarkand, Bukhara, Tashkent"
+    ],
+    "correctIndex": 1,
+    "explanation": "In 1446 Abulkhair Khan captured Sozak, Syganak (making it his capital), and Ak-Korgan — key trade cities on the Syr Darya, strengthening his control over the southeastern steppe."
+  },
+  {
+    "id": "fe-32", "topic": "final-exam", "type": "mcq",
+    "question": "The Bukeev (Inner) Horde was formed in 1801 in the area between which two rivers?",
+    "options": ["Irtysh and Ishim", "SyrDarya and AmuDarya", "Volga and Ural", "Irtysh and Tobol", "Chu and Talas"],
+    "correctIndex": 2,
+    "explanation": "The Bukeev (Inner) Horde was established in 1801 by Bukey Sultan between the Volga and Ural rivers, settling Kazakhs in the interfluvial zone to reduce nomadic mobility."
+  },
+  {
+    "id": "fe-33", "topic": "final-exam", "type": "mcq",
+    "question": "The goal of Kenesary Kasymuly's rebellion was not only to stop Russian colonization but also to free the Kazakhs of the southern regions from the:",
+    "options": ["Kokand Khanate", "Bukhara Emirate", "Khiva Khanate", "Safavid Iran", "Ottoman Empire"],
+    "correctIndex": 0,
+    "explanation": "Kenesary (1837–1847) fought on two fronts: against Russian colonization from the north and against Kokand Khanate domination over southern Kazakh lands — aiming to restore a unified Kazakh state."
+  },
+  {
+    "id": "fe-34", "topic": "final-exam", "type": "mcq",
+    "question": "After taking power in 1841, Kenesary Kasymov introduced which type of court?",
+    "options": ["Khan's", "Bii", "People's", "Military", "Civil"],
+    "correctIndex": 3,
+    "explanation": "To centralize authority and enforce discipline in his uprising, Kenesary replaced traditional bii courts with military courts — reflecting his goal of building a modern state structure."
+  },
+  {
+    "id": "fe-35", "topic": "final-exam", "type": "mcq",
+    "question": "What administrative structure did Russia introduce in the Kazakh steppe under the 1867–1868 reforms?",
+    "options": [
+      "Okrugs and volosts only",
+      "Volosts and auls only",
+      "Governor-Generalships divided into oblasts, uezds, volosts, and auls",
+      "A single Steppe Department"
+    ],
+    "correctIndex": 2,
+    "explanation": "The 1867–1868 Steppe Statute replaced Kazakh khanate structures with Russian administrative units: two Governor-Generalships (Steppe and Turkestan) divided into oblasts, uezds, volosts, and auls."
+  },
+  {
+    "id": "fe-36", "topic": "final-exam", "type": "mcq",
+    "question": "Why did Kazakh Khans lose much of their authority between 1822 and 1848?",
+    "options": [
+      "They abdicated voluntarily to avoid conflict",
+      "They formed a new state elsewhere",
+      "The Dzungars forced them to surrender titles",
+      "The Russian Empire abolished the traditional khanate structure",
+      "Cossacks were appointed as leaders"
+    ],
+    "correctIndex": 3,
+    "explanation": "The 1822 Statute for the Siberian Kyrgyz (Middle Zhuz) abolished the Khan title; the 1824 Orenburg Statute did the same for the Junior Zhuz; in 1848 the Bukeev Horde Khan was eliminated — completing the destruction of Kazakh political autonomy."
+  },
+  {
+    "id": "fe-37", "topic": "final-exam", "type": "mcq",
+    "question": "The Syrym Datuly uprising covered the territory of the Junior Zhuz from:",
+    "options": [
+      "The Irtysh River to the Aral Sea",
+      "The banks of the Edil (Volga) to the Aral Sea",
+      "The Ural River to the Caspian coast only",
+      "The Syrdarya to the Amudarya"
+    ],
+    "correctIndex": 1,
+    "explanation": "Syrym Datov's uprising (1783–1797) spread across the Junior Zhuz from the Edil (Volga) River to the Aral Sea, targeting both tsarist authority and the Kazakh khans collaborating with Russia."
+  },
+  {
+    "id": "fe-38", "topic": "final-exam", "type": "truefalse",
+    "question": "The 1836–1838 Isatai-Makhambet uprising took place on the territory of the Bukey Horde, between the Volga and Ural rivers.",
+    "answer": true,
+    "explanation": "Isatai Taimanov and the poet Makhambet Utemisov led their uprising in the Bukey Horde territory (between Volga and Ural), protesting land seizures by the khan's entourage and Russian settlers."
+  },
+  {
+    "id": "fe-39", "topic": "final-exam", "type": "mcq",
+    "question": "What was the Karkaraly Petition of 1905 significant for?",
+    "options": [
+      "It called for the sedentarization of Kazakh nomads",
+      "It was the first organized political demand by Kazakh intellectuals for civil rights",
+      "It was a religious decree from Muslim clergy",
+      "It endorsed Russian colonial rule in exchange for land rights"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Karkaraly Petition (25 July 1905) organized by Bukeikhanov, Baitursynov and others at the Koyandy fair demanded civil rights, land protection, and political representation — the founding document of the Alash movement."
+  },
+  {
+    "id": "fe-40", "topic": "final-exam", "type": "mcq",
+    "question": "What forms of struggle did the Kazakh intelligentsia use against Russian colonial policy? (choose the best combination)",
+    "options": [
+      "Sending petitions, participation in State Duma, publishing newspapers",
+      "Armed uprisings only",
+      "Religious jihad and Ottoman alliances",
+      "Diplomatic negotiations with Britain and France"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Alash intelligentsia used three main political tools: petitions (Karkaraly 1905), Duma participation (9 Kazakh deputies in 1906–1907), and publishing 'Qazaq' newspaper and magazines like 'Aiqap'."
+  },
+  {
+    "id": "fe-41", "topic": "final-exam", "type": "mcq",
+    "question": "In 1911–1915, which periodical was published as a key platform for Kazakh national culture and society?",
+    "options": ["Alash", "Qazaq", "Aiqap", "Abai", "Turkestan Courier"],
+    "correctIndex": 2,
+    "explanation": "'Aiqap' magazine (1911–1915, Troitsk), edited by Mukhamedzhan Seralin, published Kazakh cultural, educational, and social content, serving as a predecessor to the Alash movement's 'Qazaq' newspaper."
+  },
+  {
+    "id": "fe-42", "topic": "final-exam", "type": "mcq",
+    "question": "What event is considered the beginning of the Alash movement?",
+    "options": [
+      "First All-Kazakh Congress, July 1917",
+      "Karkaraly petition, June 1905",
+      "Second All-Kazakh Congress, December 1917",
+      "Publication of draft program 'Alash', November 1917",
+      "Publication of Dulatov's 'Oyan, Kazakh', 1909"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Karkaraly petition of June–July 1905, organizing Kazakh bourgeoisie and intelligentsia at the Koyandy fair, is regarded by historians as the founding moment of the Alash movement."
+  },
+  {
+    "id": "fe-43", "topic": "final-exam", "type": "mcq",
+    "question": "When was the Alash Party formed as a key political force?",
+    "options": ["October 1916", "July 1917", "December 1917", "February 1918", "October 1920"],
+    "correctIndex": 1,
+    "explanation": "The Alash Party was founded at the First All-Kazakh Congress in Orenburg in July 1917, with a 10-point programme covering statehood, land, religion, courts, and education."
+  },
+  {
+    "id": "fe-44", "topic": "final-exam", "type": "fill",
+    "question": "Who was the chairman of the government of Alash-Orda?",
+    "answers": ["Alikhan Bukeikhanov", "Alikhan Bokeikhanov", "Bukeikhanov", "Bokeikhanov", "A. Bukeikhanov"],
+    "explanation": "Alikhan Bukeikhanov (1866–1937) was elected chairman of the Alash-Orda People's Council at the Second All-Kazakh Congress (December 1917). He was executed in 1937 and rehabilitated in 1988."
+  },
+  {
+    "id": "fe-45", "topic": "final-exam", "type": "mcq",
+    "question": "At the Second All-Kazakh Congress (December 1917), the Kazakh autonomy was given the name:",
+    "options": ["Kazakh ASSR", "Turkestan", "Kokan", "Alash", "Ush Zhuz"],
+    "correctIndex": 3,
+    "explanation": "The Second All-Kazakh Congress (5–13 December 1917, Orenburg) proclaimed 'Alash Autonomy' and established the Alash-Orda government — the name 'Alash' deriving from the legendary ancestor of the Kazakh people."
+  },
+  {
+    "id": "fe-46", "topic": "final-exam", "type": "mcq",
+    "question": "Which political force was responsible for the liquidation of both the Turkestan and Alash autonomies?",
+    "options": ["The Tsarist government", "The Bolsheviks", "The Ufa Directory", "Ataman Dutov's forces", "The Provisional Government"],
+    "correctIndex": 1,
+    "explanation": "Both the Kokand (Turkestan) Autonomy (February 1918) and the Alash-Orda (March 1920) were dissolved by the Bolsheviks, who did not tolerate competing national-democratic governments."
+  },
+  {
+    "id": "fe-47", "topic": "final-exam", "type": "mcq",
+    "question": "The economic and legal policy proclaimed by Alash-Orda included protection of private property, a progressive income tax, and:",
+    "options": [
+      "Expropriation of all wealthy landowners",
+      "Equality of all citizens before the law",
+      "Collectivization of land",
+      "Nationalization of all industry"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alash-Orda's programme was liberal-democratic: it protected private property, introduced progressive taxation, and guaranteed legal equality — contrasting sharply with Bolshevik class-based policies."
+  },
+  {
+    "id": "fe-48", "topic": "final-exam", "type": "mcq",
+    "question": "How did the Kazakh revolutionary intelligentsia respond to the 1916 national uprising?",
+    "options": [
+      "Migrated to China",
+      "Supported the tsarist royal decree",
+      "Joined the uprising",
+      "Were politically neutral",
+      "Migrated to Iran"
+    ],
+    "correctIndex": 2,
+    "explanation": "The radical intelligentsia (Ryskulov, Seyfullin, Zhangaeldin) joined the 1916 uprising; moderate leaders like Bukeikhanov were divided but many eventually supported resistance to the conscription decree."
+  },
+  {
+    "id": "fe-49", "topic": "final-exam", "type": "fill",
+    "question": "Year of formation of the Kazakh Autonomous Soviet Socialist Republic (KazASSR):",
+    "answers": ["1920", "August 1920", "26 August 1920", "August 26, 1920"],
+    "explanation": "The Kyrgyz (Kazakh) ASSR was established by VTsIK decree on 26 August 1920 with Orenburg as its first capital; it was renamed the Kazakh ASSR in 1925."
+  },
+  {
+    "id": "fe-50", "topic": "final-exam", "type": "mcq",
+    "question": "First Secretary Goloshchyokin believed the Kazakh aul had not felt the revolution, so he proposed:",
+    "options": ["'Small October'", "'Great Transition'", "'Great Transformation'", "'New Path'", "'Red Sunrise'"],
+    "correctIndex": 0,
+    "explanation": "Filipp Goloshchyokin's 'Small October' (1925) was a radical programme to impose Soviet transformations on Kazakhstan — forcing sedentarization, collectivization, and class struggle into nomadic society."
+  },
+  {
+    "id": "fe-51", "topic": "final-exam", "type": "mcq",
+    "question": "Who formulated the 'Small October' policy for Kazakhstan?",
+    "options": ["I. Kuramysov", "S. Sadvakasov", "S. Mendeshev", "F. Goloshchyokin"],
+    "correctIndex": 3,
+    "explanation": "Filipp Goloshchyokin, First Secretary of the Kazakh Communist Party (1925–1933), imposed the 'Small October' — his radical programme that directly led to the catastrophic famine of 1930–1933."
+  },
+  {
+    "id": "fe-52", "topic": "final-exam", "type": "mcq",
+    "question": "Key features of collectivization in Kazakhstan included: (choose the best combination)",
+    "options": [
+      "Voluntary association and improvement of agricultural machinery",
+      "Forcible methods, ignoring local peculiarities, destruction of wealthy rural class (bais)",
+      "Democratic elections of collective farm leadership",
+      "Gradual voluntary transition over 20 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "Collectivization in Kazakhstan was implemented by force, ignored nomadic traditions, destroyed the wealthy bai class, and led to the Asharshylyk famine — killing roughly 40% of all Kazakhs."
+  },
+  {
+    "id": "fe-53", "topic": "final-exam", "type": "mcq",
+    "question": "Economic decisions of the Soviet government that caused the great famine of 1930–1933 in Kazakhstan included: (choose the best combination)",
+    "options": [
+      "Forced meat harvesting, forced grain harvesting, and forced collectivization",
+      "Raising agricultural wages and building new kolkhozes voluntarily",
+      "Importing grain from Siberia to Kazakhstan",
+      "Reducing agricultural taxes and restoring private farms"
+    ],
+    "correctIndex": 0,
+    "explanation": "Three policies triggered the famine: forced livestock confiscation (meat quotas), forced grain extraction, and the overall forced collectivization campaign — all implemented simultaneously in a nomadic society unprepared for sedentary agriculture."
+  },
+  {
+    "id": "fe-54", "topic": "final-exam", "type": "mcq",
+    "question": "Which is the correct description of 'War Communism' (1918–1921)?",
+    "options": [
+      "A diplomatic alliance formed by Bolsheviks with neighboring states",
+      "An economic policy during the Civil War — forcible requisitioning of grain and goods to supply the Red Army",
+      "A policy requiring Soviet citizens to serve 5 years in the military",
+      "A plan to modernize agriculture and reduce peasant taxes",
+      "A strategy to create a free market economy"
+    ],
+    "correctIndex": 1,
+    "explanation": "War Communism (1918–1921) was the Bolshevik emergency economic policy during the Civil War: nationalization of industry, mandatory grain requisitioning (prodrazvyorstka), ban on private trade."
+  },
+  {
+    "id": "fe-55", "topic": "final-exam", "type": "mcq",
+    "question": "The New Economic Policy (NEP) began in:",
+    "options": ["1917", "1919", "1921", "1925", "1928"],
+    "correctIndex": 2,
+    "explanation": "The NEP was introduced at the 10th Party Congress in March 1921, replacing War Communism's grain requisitions with a fixed tax in kind (prodnalog), allowing limited private trade and enterprise."
+  },
+  {
+    "id": "fe-56", "topic": "final-exam", "type": "mcq",
+    "question": "Which was the main center of coal mining in Soviet Kazakhstan?",
+    "options": ["Mangistau", "Karaganda", "Kustanai", "Akmola", "Almaty"],
+    "correctIndex": 1,
+    "explanation": "The Karaganda coal basin (Karaganda) was the third-largest coal basin in the USSR and the primary coal-mining center of Soviet Kazakhstan, developed largely through Gulag labor."
+  },
+  {
+    "id": "fe-57", "topic": "final-exam", "type": "mcq",
+    "question": "Which three political prisoner camps (GULAG) were located on the territory of Kazakhstan?",
+    "options": [
+      "KARLAG, ALZhIR, and STEPLAG",
+      "VORKUTLAG, NORILLAG, and KARLAG",
+      "SOLOVKI, KARLAG, and NORILLAG",
+      "ALZhIR, GULAG-Center, and DALLAG"
+    ],
+    "correctIndex": 0,
+    "explanation": "KARLAG (Karaganda camp), ALZhIR (Akmolinsk camp for wives of 'traitors'), and STEPLAG (Steplag, Zhezkazgan) were the three major Gulag camps on Kazakh territory."
+  },
+  {
+    "id": "fe-58", "topic": "final-exam", "type": "mcq",
+    "question": "Which Kazakh scientist was sentenced to 25 years in camps in the early 1950s?",
+    "options": ["Zh. Aimauytov", "A. Margulan", "M. Auezov", "E. Bekmakhanov", "M. Dulatov"],
+    "correctIndex": 3,
+    "explanation": "Yermukhan Bekmakhanov, historian of Kenesary's uprising, was condemned in the 'Bekmakhanov Affair' (1952) and sentenced to 25 years; his case became a symbol of Stalinist persecution of Kazakh scholarship."
+  },
+  {
+    "id": "fe-59", "topic": "final-exam", "type": "mcq",
+    "question": "Who is the author of the book 'Kazakhstan in the 20–40s of the 20th century'?",
+    "options": ["M. Kozybaev", "E. Bekmakhanov", "A. Margulan", "Ch. Valikhanov", "Zh. Kasymbaev"],
+    "correctIndex": 1,
+    "explanation": "Yermukhan Bekmakhanov authored this seminal work on early Soviet Kazakhstan; it was attacked in 1952 and used as the basis for his arrest — rehabilitated after Stalin's death."
+  },
+  {
+    "id": "fe-60", "topic": "final-exam", "type": "mcq",
+    "question": "In 1946, what important event took place in the scientific life of Kazakhstan?",
+    "options": [
+      "The Kazakhstan branch of the USSR Academy of Sciences was opened",
+      "The Academy of Sciences of the Kazakh SSR was established",
+      "Works of Al-Farabi were published for the first time",
+      "KazSU (Kazakh State University) was opened"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Academy of Sciences of the Kazakh SSR was formally established in 1946, with the geologist Kanysh Satpayev as its first president — a landmark in Kazakh scientific institutionalization."
+  },
+  {
+    "id": "fe-61", "topic": "final-exam", "type": "mcq",
+    "question": "For which achievement was Kanysh Satpayev awarded the Stalin State Prize during the war years?",
+    "options": [
+      "For developing new types of weapons",
+      "For financial contributions to the front",
+      "For the study of copper deposits at Zhezkazgan",
+      "For organizing science in the Karaganda region",
+      "For managing the Academy of Sciences of the Kazakh SSR"
+    ],
+    "correctIndex": 2,
+    "explanation": "Satpayev received the Stalin State Prize (1942) for his study of the copper deposits at Zhezkazgan (Dzhezkazgan) — crucial for wartime metal production — in recognition of their enormous industrial value."
+  },
+  {
+    "id": "fe-62", "topic": "final-exam", "type": "mcq",
+    "question": "How was the post-war financial crisis in the USSR resolved in 1947?",
+    "options": [
+      "Transition to a market economy",
+      "Attraction of foreign investment",
+      "Receiving war reparations from Germany",
+      "Sale of government bonds to citizens",
+      "Currency reform — introduction of a new ruble"
+    ],
+    "correctIndex": 4,
+    "explanation": "The 1947 Soviet monetary reform replaced old rubles with new ones at 10:1 ratio, effectively confiscating savings and eliminating wartime black market money — combined with abolition of the rationing system."
+  },
+  {
+    "id": "fe-63", "topic": "final-exam", "type": "mcq",
+    "question": "When was the fourth five-year plan for economic recovery of the USSR adopted?",
+    "options": ["1945", "1946", "1947", "1948", "1949"],
+    "correctIndex": 1,
+    "explanation": "The Fourth Five-Year Plan (1946–1950) was adopted in 1946, focusing on rebuilding war-devastated Soviet industry, with targets for steel, coal, oil, and electricity production."
+  },
+  {
+    "id": "fe-64", "topic": "final-exam", "type": "mcq",
+    "question": "Negative consequences of plowing virgin and fallow lands in Kazakhstan in the 1950s–60s included: (choose the best combination)",
+    "options": [
+      "Increased grain exports and improved agricultural wages",
+      "Decrease of Kazakh population to 30%, wind erosion of soil, reduction of pastures",
+      "Improvement of soil quality and expanded farming areas",
+      "Rapid industrialization of rural areas"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Virgin Lands Campaign caused wind erosion of steppe soils (dust bowls), reduced traditional pastures devastating Kazakh animal husbandry, and decreased the Kazakh share of their own republic's population to ~30%."
+  },
+  {
+    "id": "fe-65", "topic": "final-exam", "type": "mcq",
+    "question": "Main reasons for the ineffectiveness of Khrushchev's reforms: (best combination of three)",
+    "options": [
+      "Voluntarism, inconsistency, and preservation of totalitarian system foundations",
+      "Too much democratic reform and loss of central control",
+      "Opposition from foreign powers and CIA interference",
+      "Excessive focus on agriculture while ignoring industry"
+    ],
+    "correctIndex": 0,
+    "explanation": "Khrushchev's reforms failed due to: voluntarism (impulsive policy changes), inconsistency (reversals and contradictions), and failure to dismantle the Stalinist command economy and one-party structure."
+  },
+  {
+    "id": "fe-66", "topic": "final-exam", "type": "mcq",
+    "question": "The initial phase of rehabilitation of victims of political repression in the Soviet Union is associated with:",
+    "options": [
+      "The Khrushchev Thaw",
+      "The New Economic Policy (NEP)",
+      "The Brezhnev Era",
+      "The Civil War period",
+      "Gorbachev's Perestroika"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Khrushchev Thaw (after 1956 Secret Speech) launched the first wave of rehabilitation of Gulag prisoners and politically persecuted individuals, including some Kazakh intellectuals."
+  },
+  {
+    "id": "fe-67", "topic": "final-exam", "type": "mcq",
+    "question": "Which Soviet leader launched the Perestroika reforms in the 1980s?",
+    "options": ["N. Khrushchev", "Yu. Andropov", "L. Brezhnev", "M. Gorbachev", "V. Lenin"],
+    "correctIndex": 3,
+    "explanation": "Mikhail Gorbachev (General Secretary from 1985) launched Perestroika (restructuring) and Glasnost (openness) — reforms that inadvertently accelerated the dissolution of the USSR."
+  },
+  {
+    "id": "fe-68", "topic": "final-exam", "type": "mcq",
+    "question": "Key directions of Soviet foreign policy during Gorbachev's Perestroika were: (best combination)",
+    "options": [
+      "Increased military presence in Eastern Europe and involvement in Africa",
+      "Withdrawal of Soviet troops from Afghanistan and nuclear disarmament; improving relations with Western countries",
+      "Expansion of Soviet influence in Central Asia and strengthening of the Warsaw Pact",
+      "Alliance with China against the United States"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gorbachev's 'New Thinking': withdrawal from Afghanistan (completed February 1989), INF Treaty with Reagan (1987), and rapprochement with Western Europe — reversing the Cold War military buildup."
+  },
+  {
+    "id": "fe-69", "topic": "final-exam", "type": "mcq",
+    "question": "The 'August putsch' of 1991 contributed to:",
+    "options": [
+      "The collapse of the USSR",
+      "Strengthening the role of the Communist Party",
+      "Economic development of Soviet republics",
+      "Military reform of the Red Army",
+      "Political stabilization of the Soviet state"
+    ],
+    "correctIndex": 0,
+    "explanation": "The failed August 1991 coup by Communist hardliners accelerated the USSR's collapse: it destroyed the CPSU's legitimacy, emboldened republic independence movements, and led to formal dissolution by December 1991."
+  },
+  {
+    "id": "fe-70", "topic": "final-exam", "type": "mcq",
+    "question": "Which movement emerged during Perestroika specifically to advocate for Kazakhstan's political and economic independence?",
+    "options": ["Zhas Tulpar", "Azat", "Nevada-Semipalatinsk", "Alash Orda", "ESEP"],
+    "correctIndex": 1,
+    "explanation": "Azat ('Freedom') was a Kazakh national-democratic movement founded during Perestroika that advocated political and economic sovereignty. Nevada-Semipalatinsk focused specifically on closing the nuclear test site."
+  },
+  {
+    "id": "fe-71", "topic": "final-exam", "type": "mcq",
+    "question": "Year the Declaration on State Sovereignty of the Kazakh SSR was adopted:",
+    "options": ["1986", "1988", "1990", "1991", "1992"],
+    "correctIndex": 2,
+    "explanation": "The Declaration on State Sovereignty of the Kazakh SSR was adopted on 25 October 1990, establishing the supremacy of republican laws and sovereignty over Kazakhstan's natural resources."
+  },
+  {
+    "id": "fe-72", "topic": "final-exam", "type": "mcq",
+    "question": "Main goals stated in Kazakhstan's Declaration of State Sovereignty (1990) were:",
+    "options": [
+      "Strengthening Communist Party rule and expanding the military",
+      "Strengthening national self-governance and developing independent international relations",
+      "Establishing full control over all USSR union enterprises",
+      "Immediately dissolving the Soviet Union"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 1990 Sovereignty Declaration established: national self-governance (republic laws supreme over all-union laws), sovereignty over natural resources, and the right to independent international relations."
+  },
+  {
+    "id": "fe-73", "topic": "final-exam", "type": "mcq",
+    "question": "Year Kazakhstan's national currency, the tenge, was introduced:",
+    "options": ["1991", "1992", "1993", "1995", "1997"],
+    "correctIndex": 2,
+    "explanation": "The tenge was introduced on 15 November 1993, replacing the Soviet/Russian ruble — a key milestone in Kazakhstan's economic sovereignty and monetary independence."
+  },
+  {
+    "id": "fe-74", "topic": "final-exam", "type": "mcq",
+    "question": "Year of official rehabilitation of Mirzhakyp Dulatov, Magzhan Zhumabaev, and Shakerim Kudaiberdiev:",
+    "options": ["1986", "1988", "1991", "1995", "2000"],
+    "correctIndex": 3,
+    "explanation": "The Alash leaders and poets were formally rehabilitated in 1995 in independent Kazakhstan, decades after being executed during Stalin's Great Terror (1935–1938)."
+  },
+  {
+    "id": "fe-75", "topic": "final-exam", "type": "mcq",
+    "question": "National identity in the Republic of Kazakhstan is based on the principle of:",
+    "options": ["Ethnicity", "Religion", "Citizenship", "Language", "Culture"],
+    "correctIndex": 2,
+    "explanation": "Kazakhstan's national identity is civic/citizenship-based: all citizens regardless of ethnicity are equal members of the Kazakhstani nation — a multi-ethnic approach enshrined in the Constitution."
+  },
+  {
+    "id": "fe-76", "topic": "final-exam", "type": "mcq",
+    "question": "A set of historical messages, myths, and reflections about the past transmitted from generation to generation is called:",
+    "options": ["Self-criticism", "Ideology", "Retransmission", "Historical memory", "De-ideologization"],
+    "correctIndex": 3,
+    "explanation": "Historical memory refers to the collective transmission of interpretations of the past across generations — myths, narratives, commemorations — shaping national identity and group consciousness."
+  },
+  {
+    "id": "fe-77", "topic": "final-exam", "type": "mcq",
+    "question": "According to Benedict Anderson, what is the concept of the nation primarily based on?",
+    "options": [
+      "Shared biological and genetic origins",
+      "Geographic proximity of population",
+      "Imagined belonging to a unified political community and shared historical memory",
+      "Economic cooperation between communities",
+      "Military conquest and territorial control"
+    ],
+    "correctIndex": 2,
+    "explanation": "Anderson's 'Imagined Communities' (1983): nations are imagined political communities — members will never meet most fellow members but share a sense of horizontal comradeship built through print capitalism, newspapers, and novels."
+  },
+  {
+    "id": "fe-78", "topic": "final-exam", "type": "mcq",
+    "question": "The connection between Anderson's theory of nationalism and the goals of the Alash movement is best explained by:",
+    "options": [
+      "The creation of a unified Kazakh language and educational system ('Qazaq' newspaper, alphabet reform)",
+      "Military resistance against colonial powers",
+      "Emphasis on shared genetic and ethnic origins",
+      "Geographic consolidation of Kazakh territories through conquest"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alash leaders like Baitursynov (Kazakh alphabet reform, 'Qazaq' newspaper) were creating exactly what Anderson describes — print capitalism in the vernacular that allowed Kazakhs to imagine themselves as one nation."
+  },
+  {
+    "id": "fe-79", "topic": "final-exam", "type": "mcq",
+    "question": "What was the main content of Soviet national policy in Kazakhstan in the 1960s–70s? (best combination)",
+    "options": [
+      "Formation of the 'Soviet people' community, mass closure of national schools, Russification policy",
+      "Promotion of Kazakh language and culture, opening of national universities",
+      "Return of Kazakh lands confiscated during collectivization",
+      "Establishment of Kazakh as the sole state language"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Brezhnev era's national policy pushed the 'Soviet people' (Sovetskiy narod) concept, Russification, closure of Kazakh-language schools, and suppression of national identity — radically reducing the Kazakh-speaking population."
+  },
+  {
+    "id": "fe-80", "topic": "final-exam", "type": "mcq",
+    "question": "What was the purpose of changing the Kazakh script from Arabic to Latin (1929) to Cyrillic (1940)?",
+    "options": [
+      "Strengthen Soviet cultural integration and cut ties to Islamic and Turkic heritage",
+      "Increase religious education in Russian",
+      "Promote cultural unification with Western Europe",
+      "Restore ancient Turkic runic script"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Arabic→Latin (1929) change isolated Kazakhs from Ottoman/Islamic cultural legacy; Latin→Cyrillic (1940) deepened integration with Russian Soviet culture and hindered pan-Turkic solidarity — both were deliberate Soviet policy."
+  },
+  {
+    "id": "fe-81", "topic": "final-exam", "type": "mcq",
+    "question": "Main directions of cultural transformation in Kazakhstan after October 1917 included: (best combination)",
+    "options": [
+      "Creation of private schools and development of Muslim education",
+      "Overcoming mass illiteracy (likbez) and development of proletarian culture and public education",
+      "Development of capitalist market culture",
+      "Closing all existing schools"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soviet cultural transformation: mass literacy campaigns (likbez), building of public schools, development of a Kazakh-language Soviet culture, and introduction of proletarian (class-based) ideology into all spheres."
+  },
+  {
+    "id": "fe-82", "topic": "final-exam", "type": "mcq",
+    "question": "What historical films were produced during Kazakhstan's independence period? (choose the correct combination)",
+    "options": [
+      "Kyz Zhibek, Kunanbai, Abai",
+      "Kurmanjan Datka, Tar Zaman, Nomad",
+      "Toibozar, Amangeldiy, Kyz Zhibek",
+      "Nomad, Abai, Kunanbai"
+    ],
+    "correctIndex": 1,
+    "explanation": "Films of independent Kazakhstan's national historical cinema: 'Nomad' (2005), 'Kurmanjan Datka' (2014), 'Tar Zaman' (2018). 'Kyz Zhibek' and 'Kunanbai' are Soviet-era films."
+  },
+  {
+    "id": "fe-83", "topic": "final-exam", "type": "mcq",
+    "question": "Outstanding cultural figures who played a key role in developing Soviet culture in Kazakhstan in the 1920s–1930s included:",
+    "options": [
+      "G. Belger, Sh. Aimanov, Y. Brusilovsky",
+      "A. Zataevich, K. Baiseitova, A. Kashaubaev, S. Kozhamkulov",
+      "R. Rymbayeva, I. Baizhanov, B. Aytbayev",
+      "M. Auezov, A. Margulan, K. Satpayev"
+    ],
+    "correctIndex": 1,
+    "explanation": "1920s–30s: A. Zataevich (Russian ethnomusicologist who preserved Kazakh folk music), K. Baiseitova (opera singer), A. Kashaubaev (first Kazakh singer to perform abroad, 1925–1927), S. Kozhamkulov (actor)."
+  },
+  {
+    "id": "fe-84", "topic": "final-exam", "type": "mcq",
+    "question": "Who was the first Kazakh singer to perform abroad (in the 1920s), representing Kazakhstan internationally?",
+    "options": ["Amre Kashaubaev", "Ermek Serkebayev", "Roza Rymbayeva", "Shaken Aimanov", "Bolat Ayukhanov"],
+    "correctIndex": 0,
+    "explanation": "Amre Kashaubaev performed at the World Exhibition in Paris (1925) and Frankfurt (1927), becoming the first Kazakh artist to gain international recognition for Kazakh folk music."
+  },
+  {
+    "id": "fe-85", "topic": "final-exam", "type": "mcq",
+    "question": "Music groups established in Kazakhstan in the 1960s under the influence of rising national consciousness were:",
+    "options": ["Gulder and Musicola", "Dos-Mukassan and Orda", "Orda and Gulder", "Musicola and Dos-Mukassan"],
+    "correctIndex": 1,
+    "explanation": "Dos-Mukassan (1968) and Orda were Kazakh pop-folk groups of the 1960s–70s that blended modern music with Kazakh national motifs, reflecting cultural revival during the Khrushchev/Brezhnev thaw."
+  },
+  {
+    "id": "fe-86", "topic": "final-exam", "type": "mcq",
+    "question": "According to Nazarbayev's article '7 Facets of the Great Steppe', which three elements are identified as facets of steppe civilization?",
+    "options": [
+      "Animal Style, Petroglyphs of Tamgaly, Botai culture",
+      "The Golden Man, Ancient Turkic writing, The Great Silk Road",
+      "Golden Man, Saka culture, Nomadic lifestyle",
+      "Botai culture, Golden Man, Orkhon inscriptions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nazarbayev's article identifies 7 facets: the Golden Man (Saka goldwork), Ancient Turkic Writing (Orkhon-Yenisei runic script), Great Silk Road, and others — presented as foundations of Kazakh civilizational heritage."
+  },
+  {
+    "id": "fe-87", "topic": "final-exam", "type": "mcq",
+    "question": "The significance of the Saka civilization's cultural heritage includes: (choose the best combination)",
+    "options": [
+      "Creation of the first steppe empire in Eurasia only",
+      "Formation of steppe democracy, unique 'animal style' art, and the Golden Man monuments",
+      "Introduction of Islam to Central Asia",
+      "Destruction of the Silk Road trade network"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saka heritage: (1) steppe democracy (council of free warriors), (2) animal-style art — gold artifacts like the 'Golden Man' (Esik barrow), (3) evidence of early state formation on Kazakh territory."
+  },
+  {
+    "id": "fe-88", "topic": "final-exam", "type": "mcq",
+    "question": "Which Eneolithic culture in Kazakhstan is associated with the earliest horse domestication?",
+    "options": ["Andronovo", "Saka", "Botai", "Afanasievo", "Srubnaya"],
+    "correctIndex": 2,
+    "explanation": "The Botai culture (3500–3000 BCE, northern Kazakhstan) provides the world's earliest evidence of horse domestication — found at the Botai site by archaeologist Victor Zaibert."
+  },
+  {
+    "id": "fe-89", "topic": "final-exam", "type": "mcq",
+    "question": "The three main features (origins) of statehood are:",
+    "options": [
+      "Military democracy, secular society, urban development",
+      "Sovereignty, own territory, autochthonous (indigenous) population",
+      "National language, writing system, religion",
+      "Formal constitution, capital city, standing army"
+    ],
+    "correctIndex": 1,
+    "explanation": "Classical political science defines the three essential features of statehood as: sovereignty (supreme authority), territory (defined borders), and population (permanent inhabitants) — all applied to the history of Kazakh statehood."
+  },
+  {
+    "id": "fe-90", "topic": "final-exam", "type": "mcq",
+    "question": "Qasym Khan was significant in the history of the Kazakh Khanate because he: (choose the best answer)",
+    "options": [
+      "He completely submitted to the Kokand Khanate",
+      "Accepted citizenship of the Russian Empire only",
+      "Expanded the Khanate over the steppe including Tashkent and became known in Western Europe",
+      "Eliminated the Khan's power and introduced direct democracy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Qasym Khan (r. ~1511–1518) expanded the Kazakh Khanate to over 1 million km², conquered Tashkent, maintained diplomatic ties with Moscow (Vasili III), and became the first Kazakh ruler mentioned in European sources (Herberstein)."
+  },
+  {
+    "id": "fe-91", "topic": "final-exam", "type": "mcq",
+    "question": "When were the Kazakh legal codes created? (choose the chronologically correct set)",
+    "options": [
+      "Qasym Khannyn Qaska Zholy — first half 16th c.; Esim Khannyn Esqi Zholy — first half 17th c.; Zhety Zhargy — late 17th/early 18th c.",
+      "Qasym Khannyn Qaska Zholy — 15th c.; Esim — 18th c.; Zhety Zhargy — 19th c.",
+      "All three codes were created simultaneously under Tauke Khan",
+      "Zhety Zhargy — 16th c.; Qasym — 17th c.; Esim — 18th c."
+    ],
+    "correctIndex": 0,
+    "explanation": "Three successive Kazakh legal codes: Qasym Khannyn Qaska Zholy (early 16th c.), Esim Khannyn Esqi Zholy (early 17th c.), and Zhety Zhargy by Tauke Khan (late 17th–early 18th c.)."
+  },
+  {
+    "id": "fe-92", "topic": "final-exam", "type": "mcq",
+    "question": "The two main management systems coexisting in Russia after the February Revolution (1917) were:",
+    "options": [
+      "Soviets of Workers' and Soldiers' Deputies + Provisional Government",
+      "State Duma + Constituent Assembly",
+      "Alash-Orda + Bolshevik Party",
+      "Military Revolutionary Committee + Tsarist Ministry of Interior"
+    ],
+    "correctIndex": 0,
+    "explanation": "The 'dual power' (dvoyevlastiye) of February–October 1917: the Provisional Government (liberal ministers) alongside the Soviets of Workers' and Soldiers' Deputies (socialist councils) — neither fully controlled Russia."
+  },
+  {
+    "id": "fe-93", "topic": "final-exam", "type": "mcq",
+    "question": "The 1924–1925 national-territorial delimitation of Central Asia resulted in which regions being included in the Kazakh ASSR? (best combination)",
+    "options": [
+      "Karakalpak, Fergana, Bukhara regions",
+      "Semey, Syrdarya, and Zhetysu regions",
+      "Tashkent, Samarkand, Khiva regions",
+      "Orenburg, Uralsk, Aktyubinsk regions"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 1924–1925 delimitation transferred the Syrdarya, Zhetysu (Semireche), and Semey (Semipalatinsk) regions to the Kazakh ASSR — adding significant population and territory from Turkestan ASSR and Kyrgyz ASSR."
+  },
+  {
+    "id": "fe-94", "topic": "final-exam", "type": "mcq",
+    "question": "Which features of the Zhas Tulpar organization defined it historically?",
+    "options": [
+      "Promotion of Kazakh national identity and founding by Kazakh students in Moscow",
+      "Focus on Soviet ideology and economic reforms only",
+      "Military organization that fought for independence",
+      "Religious organization promoting Islamic revival"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zhas Tulpar ('Young Winged Horse') was an informal national-cultural organization of Kazakh students in Moscow in the 1960s, promoting Kazakh identity, language, and heritage — a precursor to later independence movements."
+  },
+  {
+    "id": "fe-95", "topic": "final-exam", "type": "mcq",
+    "question": "The land and water reform of 1921–1922 in Kazakhstan involved: (best combination of three)",
+    "options": [
+      "Return of Kazakh lands in Irtysh region/Urals, transfer of land to peasants, return of lands in Semirechye seized by Cossacks",
+      "Collectivization of all land, nationalization of water resources, abolition of private farms",
+      "Distribution of land to Russian settlers, seizure of Kazakh pastures, forced resettlement",
+      "Purchase of land from Cossacks, foreign investment in agriculture, creation of kolkhozes"
+    ],
+    "correctIndex": 0,
+    "explanation": "The 1921–1922 land and water reform partially reversed colonial land seizures: returning lands in the Irtysh region and Urals taken by settlers, transferring over 1 million acres to peasants, and returning Semirechye lands from Cossack troops."
+  },
+  {
+    "id": "fe-96", "topic": "final-exam", "type": "truefalse",
+    "question": "Qasym Khan expanded the Kazakh Khanate over the steppe including Tashkent, and conducted diplomatic and trade negotiations with Russia under Vasili III.",
+    "answer": true,
+    "explanation": "Qasym Khan expanded the Khanate and established diplomatic relations with Moscow (Vasili III); the Austrian diplomat Sigismund Herberstein left notes about the Kazakhs based on information from Moscow — the first European record of the Kazakh people."
+  },
+  {
+    "id": "fe-97", "topic": "final-exam", "type": "truefalse",
+    "question": "Khan Tauke's rule was known for sending embassies to Russia seeking military aid against the Jungars AND creating a unified code of laws for the three Zhuz.",
+    "answer": true,
+    "explanation": "Tauke Khan both created the Zhety Zhargy legal code (with three great biys) AND sent several embassies to Russia seeking military assistance against the Dzungar threat — both confirmed historical facts."
+  },
+  {
+    "id": "fe-98", "topic": "final-exam", "type": "truefalse",
+    "question": "Forced sedentarization of nomadic populations and mass confiscation of livestock were key features of collectivization in Kazakhstan.",
+    "answer": true,
+    "explanation": "Collectivization in Kazakhstan forcibly settled nomadic Kazakhs into kolkhozes and confiscated their livestock (horses, sheep, cattle) — destroying the foundation of the nomadic economy and causing the 1930–1933 famine."
+  },
+  {
+    "id": "fe-99", "topic": "final-exam", "type": "truefalse",
+    "question": "'Tar Zaman', 'Nomad', and 'Kurmanjan Datka' are all historical films produced during Kazakhstan's independence period.",
+    "answer": true,
+    "explanation": "All three are independence-era historical films: 'Nomad' (2005), 'Kurmanjan Datka' (2014), 'Tar Zaman' (2018) — produced by Kazakhfilm celebrating national historical figures and events."
+  },
+  {
+    "id": "fe-100", "topic": "final-exam", "type": "mcq",
+    "question": "The 'Bekmakhanov Affair' of 1952 was:",
+    "options": [
+      "A diplomatic incident between Kazakhstan and China",
+      "The Stalinist persecution of historian Bekmakhanov for his work on Kenesary Kasymov",
+      "A conspiracy by Kazakh officials to overthrow Moscow's authority",
+      "A corruption scandal in the Kazakh Communist Party",
+      "A workers' uprising at the Karaganda coal mines"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Bekmakhanov Affair (1952): historian Yermukhan Bekmakhanov's book on Kenesary Kasymov's uprising was condemned as 'bourgeois nationalist'; he was arrested and sentenced to 25 years — a symbol of Stalinist cultural repression in Kazakhstan."
+  },
+  {
+    "id": "fe-101", "topic": "final-exam", "type": "mcq",
+    "question": "Which factors explain the ability of Homo sapiens to dominate ecosystems, according to 'Sapiens'? (choose the best three)",
+    "options": [
+      "Genetic superiority, rapid biological adaptation, high-frequency sounds",
+      "Collective learning and knowledge transmission, complex tool use, control of fire and cooking",
+      "Larger brain size only, loss of body hair, superior eyesight",
+      "Isolation from other species, underground living, herbivorous diet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Harari identifies: (1) collective learning — accumulating knowledge across generations; (2) complex tool use and innovation; (3) control of fire enabling cooking, warmth, and habitat expansion as key Sapiens advantages."
+  },
+  {
+    "id": "fe-102", "topic": "final-exam", "type": "mcq",
+    "question": "Which innovations marked the transition to the Eneolithic (Chalcolithic) period?",
+    "options": [
+      "Naval warfare and urban aristocracy",
+      "Copper use and early domestication of horses",
+      "Writing and agriculture only",
+      "Iron smelting and chariot warfare"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Eneolithic ('Copper-Stone Age', ~4500–3000 BCE) is defined by the first use of copper metallurgy alongside stone tools. In the Eurasian steppe, this period also saw early horse domestication (Botai culture)."
+  },
+  {
+    "id": "fe-103", "topic": "final-exam", "type": "fill",
+    "question": "The Saka practiced steppe democracy, in which each free ________ warrior was equal.",
+    "answers": ["Saka", "Scythian", "nomadic", "steppe"],
+    "explanation": "Saka (Scythian) society was characterized by steppe democracy — a system where free male warriors participated in collective decision-making, contrasting with the rigid hierarchies of sedentary civilizations."
+  },
+  {
+    "id": "fe-104", "topic": "final-exam", "type": "mcq",
+    "question": "Which territories were under the control of the Western Turkic Khaganate? (choose the correct combination of three)",
+    "options": [
+      "Mongolia, Tibet, and northern China",
+      "Zhetysu, Sogdiana, and lands from the Irtysh to the Black Sea",
+      "Persia, Arabia, and Egypt",
+      "Siberia, the Urals, and Scandinavia"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Western Turkic Khaganate (603–704 CE) controlled: Zhetysu (Semirechye), Sogdiana (modern Uzbekistan/Tajikistan), and the vast steppe from the Irtysh River westward to the Black Sea."
+  },
+  {
+    "id": "fe-105", "topic": "final-exam", "type": "mcq",
+    "question": "Two long-term effects of Istemi's westward expansion in the 560s CE were:",
+    "options": [
+      "Mongol conquest of Persia and formation of the Ottoman Empire",
+      "Turkic control over Volga trade routes and direct trade relations with Byzantium",
+      "Chinese dominance over the Silk Road and destruction of Sogdian cities",
+      "Arab conquest of Central Asia and conversion of Turks to Islam"
+    ],
+    "correctIndex": 1,
+    "explanation": "Istemi's expansion (565–567 CE): (1) Turkic control over Volga/Caspian trade routes — breaking Iranian monopoly; (2) direct Byzantine–Turkic commercial and diplomatic relations, bypassing Sasanian intermediaries."
+  },
+  {
+    "id": "fe-106", "topic": "final-exam", "type": "mcq",
+    "question": "When did Genghis Khan's troops begin the conquest of the territories of Kazakhstan?",
+    "options": ["1206–1210", "1211–1221", "1227–1235", "1236–1242", "1250–1260"],
+    "correctIndex": 1,
+    "explanation": "Genghis Khan's campaigns in Central Asia and Kazakhstan took place in 1211–1221: the siege of Otrar began in 1219 (triggered by the massacre of Mongol trade envoys), followed by the fall of major Syr Darya cities."
+  },
+  {
+    "id": "fe-107", "topic": "final-exam", "type": "mcq",
+    "question": "Cities captured and destroyed during the Mongol invasion of Kazakhstan included: (choose three)",
+    "options": [
+      "Otrar, Almalyk, and Syganak (Sighnaq)",
+      "Almaty, Astana, and Shymkent",
+      "Bukhara, Samarkand, and Baghdad",
+      "Sarai, Urgench, and Merv only"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Mongols destroyed: Otrar (1219, where the governor Inalchuq had killed Mongol envoys), Syganak (Sighnaq) on the Syr Darya, and Almalyk in Zhetysu — all major cities of the Kazakh steppe and trade network."
+  },
+  {
+    "id": "fe-108", "topic": "final-exam", "type": "mcq",
+    "question": "Which rulers tried to restore the former power of the Ulug Ulus in the second half of the 14th–first half of the 15th century? (correct combination of three)",
+    "options": [
+      "Berke Khan, Uzbek Khan, and Janibek Khan",
+      "Toktamysh, Urus Khan, and Abulkhair Khan",
+      "Batu Khan, Ögedei, and Chagatai",
+      "Mamai, Timur, and Batu Khan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Three rulers attempted to restore the fragmenting Golden Horde: Urus Khan (r. 1361–1377), Toktamysh (r. 1380–1395) who briefly reunited it before Timur's defeat, and Abulkhair Khan who controlled the eastern steppe."
+  },
+  {
+    "id": "fe-109", "topic": "final-exam", "type": "mcq",
+    "question": "Key features of Kipchak (Cuman) political power included:",
+    "options": [
+      "Buddhist governance and papal sponsorship",
+      "Control of steppe trade routes and military alliances with Rus principalities",
+      "Sedentary feudal system and hereditary monarchy",
+      "Islamic theocracy and written legal code"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Kipchaks (Cumans/Polovtsy) controlled steppe trade arteries between East and West, and formed shifting military alliances with Rus princes — sometimes fighting them, sometimes allying against common threats like the Mongols."
+  },
+  {
+    "id": "fe-110", "topic": "final-exam", "type": "mcq",
+    "question": "'The State of Hajdu' and 'The Khanate of Abulkhair' are two names for:",
+    "options": [
+      "Two different states that existed simultaneously",
+      "The same state — the Uzbek Khanate of Abulkhair Khan",
+      "The Kazakh Khanate and the Golden Horde",
+      "The White Horde and the Blue Horde"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 'Khanate of Abulkhair' (also called 'State of Hajdu' in some sources) refers to the steppe state ruled by Abulkhair Khan (1428–1468), from which the Kazakh Khanate broke away under Janibek and Girey."
+  },
+  {
+    "id": "fe-111", "topic": "final-exam", "type": "mcq",
+    "question": "Which foreign informants left historical records about the Kazakh Khanate? (choose the correct three)",
+    "options": [
+      "Marco Polo, Ibn Battuta, and Carpini",
+      "Sigismund Herberstein, Anthony Jenkinson, and Haidar Dulati",
+      "Rubruck, Plano Carpini, and Marco Polo",
+      "Ptolemy, Herodotus, and Strabo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Three key sources on the Kazakh Khanate: Sigismund Herberstein (Austrian diplomat, 1549 — notes on Kazakhs from Moscow sources), Anthony Jenkinson (English merchant, 1558 — traveled through Kazakhstan), Haidar Dulati (Moghul historian, 'Tarikh-i-Rashidi', 1546)."
+  },
+  {
+    "id": "fe-112", "topic": "final-exam", "type": "mcq",
+    "question": "What is known about the rule of Zhangir (Jangir) Khan? (choose two correct aspects)",
+    "options": [
+      "He completely submitted to Russia and eliminated the khan's army",
+      "He led the Kazakh army against the Dzungars at Orbulak (1643) and established diplomatic contacts with Khiva and Bukhara",
+      "He created the Zhety Zhargy legal code",
+      "He accepted Russian protectorate and moved his capital to Orenburg"
+    ],
+    "correctIndex": 1,
+    "explanation": "Zhangir Khan (r. ~1629–1652): (1) heroic defense at Orbulak (1643) with ~600 men vs 50,000 Dzungars — a legendary Kazakh military feat; (2) built diplomatic alliances with Bukhara and Khiva as counterweights to Dzungar pressure."
+  },
+  {
+    "id": "fe-113", "topic": "final-exam", "type": "mcq",
+    "question": "In which year did the Kazakhs organize their first all-steppe organized resistance to the Dzungars at the Battle of Bulanty?",
+    "options": ["1720", "1723", "1726", "1730", "1733"],
+    "correctIndex": 2,
+    "explanation": "The Battle of Bulanty (also called Karasyt, 1726) was the first major coordinated Kazakh counterattack against the Dzungars, followed by the decisive Battle of Anyrakay (1730) that ended the Dzungar threat."
+  },
+  {
+    "id": "fe-114", "topic": "final-exam", "type": "mcq",
+    "question": "The residence of Khan Abulkhair of the Junior Zhuz was located:",
+    "options": [
+      "In Turkestan",
+      "In Saryarka (central steppe)",
+      "In the Maytobe tract on the Yrgyz River",
+      "In the Kara Siyr area",
+      "In the Orsk fortress"
+    ],
+    "correctIndex": 2,
+    "explanation": "Abulkhair Khan's traditional residence was in the Maytobe tract on the Yrgyz (Irgiz) River, in the territory of the Junior Zhuz, from where he conducted his campaigns and diplomacy."
+  },
+  {
+    "id": "fe-115", "topic": "final-exam", "type": "mcq",
+    "question": "The correct chronological order of Kazakh national liberation uprisings is:",
+    "options": [
+      "Kenesary → Syrym → Isatai → Zhankhoji → Amangeldy",
+      "Syrym Datuly → Isatai Taimanov → Kenesary Kasymov → Zhankhoji → Amangeldy Imanov",
+      "Amangeldy → Kenesary → Isatai → Syrym → Zhankhoji",
+      "Isatai → Syrym → Zhankhoji → Kenesary → Amangeldy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chronological order: Syrym Datuly (1783–1797) → Isatai Taimanov (1836–1838) → Kenesary Kasymov (1837–1847) → Zhankhoji Nurmukhameduly (1856–1860) → Amangeldy Imanov (1916–1919)."
+  },
+  {
+    "id": "fe-116", "topic": "final-exam", "type": "mcq",
+    "question": "Main consequences of Russian colonial reforms of the 1860s in Kazakhstan: (choose the best three)",
+    "options": [
+      "Complete transformation into a colony, declaration of Kazakh lands as Russian property, transformation into raw material appendage",
+      "Economic modernization, creation of universities, end of nomadism",
+      "Granting Kazakhs equal rights, building railways, establishing democracy",
+      "Creating an independent Kazakh state within the Russian Empire"
+    ],
+    "correctIndex": 0,
+    "explanation": "The 1867–1868 Steppe Statute completed Kazakhstan's colonization: (1) completed colonial annexation; (2) declared Kazakh lands 'state property' of Russia; (3) entrenched Kazakhstan as a raw material supplier — cotton, wool, meat — for Russian industry."
+  },
+  {
+    "id": "fe-117", "topic": "final-exam", "type": "mcq",
+    "question": "Governor-Generalships formed on the territory of Kazakhstan under the 1867–1868 reform included: (choose three)",
+    "options": [
+      "Moscow, Siberian, and Caucasus Governor-Generalships",
+      "West Siberian, Orenburg, and Turkestan Governor-Generalships",
+      "Steppe, Orenburg, and Volga Governor-Generalships",
+      "Siberian, East Siberian, and Turkestan only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kazakhstan's territory was divided among: the West Siberian Governor-Generalship (Semipalatinsk, Akmola oblasts), the Orenburg Governor-Generalship (Uralsk, Turgay oblasts), and the Turkestan Governor-Generalship (Syrdarya, Zhetysu oblasts)."
+  },
+  {
+    "id": "fe-118", "topic": "final-exam", "type": "mcq",
+    "question": "How did the strengthening of the Kazakh Khans begin at the end of the 15th century?",
+    "options": [
+      "Military campaigns to seize Syrdarya lands and their cities",
+      "Establishment of a new capital in Otrar",
+      "Establishment of a political union with the Nogai Horde",
+      "Creation of the 'Qasym Khannyn Qaska Zholy' legal code"
+    ],
+    "correctIndex": 0,
+    "explanation": "The strengthening of the Kazakh Khanate began with military expansion southward — capturing the Syr Darya cities (Sozak, Syganak, Sauran, Otrar) which provided agricultural wealth and trade revenue essential to khan power."
+  },
+  {
+    "id": "fe-119", "topic": "final-exam", "type": "mcq",
+    "question": "Three Kazakh deputies who served in the Russian State Duma were:",
+    "options": [
+      "A. Bukeikhanov, B. Karataev, M. Tynyshpaev",
+      "M. Dulatov, A. Baitursynov, M. Zhumabaev",
+      "Kenesary, Syrym, Isatai",
+      "K. Satpayev, M. Auezov, A. Margulan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kazakh Duma deputies: Alikhan Bukeikhanov (1st Duma, 1906), Bakhytzhan Karataev (2nd Duma, 1907 — gave a famous speech against colonial agrarian policy), Mukhamedzhan Tynyshpaev (2nd Duma, 1907)."
+  },
+  {
+    "id": "fe-120", "topic": "final-exam", "type": "mcq",
+    "question": "Historical events of 1917 that were decisive for the Alash movement: (choose three)",
+    "options": [
+      "Publication of 'Qazaq' newspaper, defeat of Alash at Kulikovo, Bukeikhanov's arrest",
+      "Creation of Alash Autonomy, creation of Alash-Orda government, creation of the Alash Party",
+      "Formation of KazASSR, abolition of khanate, Treaty of Brest-Litovsk",
+      "Karkaraly petition, 1916 uprising, Stolypin's agrarian reform"
+    ],
+    "correctIndex": 1,
+    "explanation": "Three decisive 1917 events for Alash: (1) founding of the Alash Party (July); (2) proclamation of Alash Autonomy (December 5–13); (3) establishment of the Alash-Orda government with Bukeikhanov as chairman."
+  },
+  {
+    "id": "fe-121", "topic": "final-exam", "type": "mcq",
+    "question": "The Bolsheviks pardoned Alash members in 1919 for two main reasons:",
+    "options": [
+      "Their military strength and control over Siberia",
+      "Their education and authority among the Kazakh people",
+      "Their gold reserves and foreign diplomatic connections",
+      "Their support for the Red Army from the beginning of the Civil War"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 1919 Bolshevik amnesty for Alash members was pragmatic: (1) the intelligentsia's education was needed to build Soviet institutions in Kazakhstan; (2) their authority among Kazakhs was essential for Soviet legitimacy in the region."
+  },
+  {
+    "id": "fe-122", "topic": "final-exam", "type": "mcq",
+    "question": "According to the Declaration of State Sovereignty, power in Kazakhstan is exercised on the principle of division into:",
+    "options": [
+      "Military, civil, and religious branches",
+      "Legislative, executive, and judicial branches",
+      "Central, regional, and local branches",
+      "Economic, political, and social branches"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Declaration of State Sovereignty (1990) established the principle of separation of powers into legislative, executive, and judicial branches — a foundational democratic principle inscribed before full independence."
+  },
+  {
+    "id": "fe-123", "topic": "final-exam", "type": "mcq",
+    "question": "The Alash party members advocated the development of which type of economy and through what means?",
+    "options": [
+      "State economy through revolution",
+      "Market economy through civil reform",
+      "Planned economy through gradual evolution",
+      "Capitalist economy through enlightenment and education"
+    ],
+    "correctIndex": 1,
+    "explanation": "Alash's economic programme was liberal: market economy development through democratic civil reforms — private property protection, progressive taxation, rule of law — contrasting with both Bolshevik statism and traditional khan-based economy."
+  },
+  {
+    "id": "fe-124", "topic": "final-exam", "type": "mcq",
+    "question": "Which of the following were NOT supporters of the Alash movement? (choose three)",
+    "options": [
+      "Dulatov, Baitursynov, Bukeikhanov",
+      "Seitkali Mendeshev, Saken Seyfullin, Turar Ryskulov",
+      "Tynyshpaev, Dosmukhamedov, Zhumabaev",
+      "Gabbasov, Karataev, Tynyshpaev"
+    ],
+    "correctIndex": 1,
+    "explanation": "Saken Seyfullin, Turar Ryskulov, and Alibi Zhangaeldin were radical pro-Bolshevik Kazakh activists who opposed the liberal-democratic Alash movement and supported Soviet power from early on."
+  },
+  {
+    "id": "fe-125", "topic": "final-exam", "type": "mcq",
+    "question": "Campaigns that accompanied collectivization in Kazakhstan: (choose three)",
+    "options": [
+      "Dekulakization of bais, forced transition to settled life, mass grain procurement",
+      "Voluntary land redistribution, building new factories, free market creation",
+      "Religious revival, horse breeding promotion, restoration of khanates",
+      "Opening of schools, building hospitals, improving nomadic infrastructure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Collectivization in Kazakhstan was accompanied by three simultaneous campaigns: 'dekulakization' (seizure of bai property), forced sedentarization (transition from nomadic to settled life), and brutal grain/livestock requisitioning."
+  },
+  {
+    "id": "fe-126", "topic": "final-exam", "type": "mcq",
+    "question": "Specific features of industrialization in Kazakhstan during the construction of the Turkestan-Siberian Railway (Turksib) included:",
+    "options": [
+      "Attraction of foreign investment, use of only skilled workers, transfer of advanced technology",
+      "Raw material character of the economy, forced pace of construction, use of new technology",
+      "Voluntary worker participation, democratic management, profit-sharing with workers",
+      "Complete mechanization, high wages for local workers, environmental protection"
+    ],
+    "correctIndex": 1,
+    "explanation": "Turksib construction (1926–1930) exemplified Soviet industrialization in Kazakhstan: raw material orientation (connecting cotton and grain regions), breakneck forced pace, and introduction of new construction technology — built largely by mobilized and Gulag labor."
+  },
+  {
+    "id": "fe-127", "topic": "final-exam", "type": "mcq",
+    "question": "Industries that developed in Kazakhstan during the industrialization of the 1920s–1930s: (choose three)",
+    "options": [
+      "Textile industry, financial services, tourism",
+      "Extractive industry (coal, copper, oil), food production, transport and infrastructure",
+      "Automobile manufacturing, shipbuilding, electronics",
+      "Pharmaceutical industry, aviation, nuclear energy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Soviet industrialization in Kazakhstan focused on: (1) extractive industries — Karaganda coal, Balkhash/Zhezkazgan copper, Emba oil; (2) food processing; (3) transport — Turksib railway, roads. Heavy manufacturing came later."
+  },
+  {
+    "id": "fe-128", "topic": "final-exam", "type": "mcq",
+    "question": "Why was the food tax (prodnalog, 1921) better than the food requisitioning (prodrazvyorstka) of War Communism?",
+    "options": [
+      "It abolished all taxes for peasants entirely",
+      "It set a fixed, lower amount of food — the surplus could be sold freely on the market",
+      "It required only grain, not livestock",
+      "It was collected by local Kazakh authorities, not the state"
+    ],
+    "correctIndex": 1,
+    "explanation": "The prodnalog (food tax) fixed a lower, predetermined amount; everything above was the farmer's own to keep or sell — unlike prodrazvyorstka which confiscated all 'surplus'. This market incentive revived Soviet agriculture after War Communism's devastation."
+  },
+  {
+    "id": "fe-129", "topic": "final-exam", "type": "mcq",
+    "question": "Kazakhstan under Khrushchev was characterized by: (choose three)",
+    "options": [
+      "Market reforms, rejection of collective farming, introduction of multi-party elections",
+      "De-Stalinization, rehabilitation of political repression victims, Virgin Lands Campaign",
+      "Re-Stalinization, expansion of Gulag system, nuclear arms buildup",
+      "Independence from Moscow, Kazakh language revival, dissolution of kolkhozes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kazakhstan under Khrushchev (1953–1964): (1) de-Stalinization (some rehabilitation of Gulag victims); (2) rehabilitation of politically repressed including some Kazakh intellectuals; (3) Virgin Lands Campaign (1954) — plowing 25+ million hectares of Kazakh steppe."
+  },
+  {
+    "id": "fe-130", "topic": "final-exam", "type": "mcq",
+    "question": "A core element of Gorbachev's glasnost policy was:",
+    "options": [
+      "Reinforcement of censorship and KGB expansion",
+      "Greater political openness and freedom of speech and press",
+      "Promotion of feudal economic structures",
+      "Expulsion of foreign journalists from the USSR"
+    ],
+    "correctIndex": 1,
+    "explanation": "Glasnost ('openness') lifted censorship, allowed public criticism of officials and history (including Stalin's crimes), freed political prisoners, and enabled open discussion of Soviet failures — ultimately feeding the independence movements."
+  },
+  {
+    "id": "fe-131", "topic": "final-exam", "type": "mcq",
+    "question": "According to Kassenova's 'Atomic Steppe', the first Soviet nuclear test at Semipalatinsk (1949) had which two immediate effects on the surrounding population?",
+    "options": [
+      "National evacuation was completed in advance; no health effects reported",
+      "A radioactive cloud drifted over inhabited areas; radiation burns among people who were outdoors",
+      "Mass migration to China; destruction of all local infrastructure",
+      "Economic boom from military contracts; increased life expectancy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kassenova documents: the first test's radioactive cloud drifted over inhabited Kazakh villages with no warning given; people outdoors suffered radiation burns and radiation sickness — local populations were used as unknowing test subjects."
+  },
+  {
+    "id": "fe-132", "topic": "final-exam", "type": "mcq",
+    "question": "According to Kassenova's 'Atomic Steppe', which two earlier Soviet policies had already traumatized Kazakh society before nuclear testing began?",
+    "options": [
+      "Space program and Olympic boycott",
+      "Collectivization and the Great Famine (Asharshylyk)",
+      "Industrialization and construction of the Turksib railway",
+      "Language reforms and closure of mosques"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kassenova argues that the Kazakh population entered the nuclear era already deeply traumatized by collectivization and the Great Famine (1930–1933), which killed ~40% of Kazakhs — creating a historical pattern of state violence against the Kazakh people."
+  },
+  {
+    "id": "fe-133", "topic": "final-exam", "type": "mcq",
+    "question": "Why did Kenesary Kasymov's movement gain wide support among Kazakhs?",
+    "options": [
+      "It encouraged accepting Russian citizenship and modernization",
+      "It promised full sedentarization and agricultural development",
+      "It aimed to restore Kazakh khan authority and defend autonomy against Russian colonization",
+      "It opposed tribal unity and promoted individual rights"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kenesary's movement (1837–1847) gained mass support because it represented the last attempt to restore an independent Kazakh state — unifying all three Zhuz against Russian colonial expansion and the destruction of traditional nomadic society."
+  },
+  {
+    "id": "fe-134", "topic": "final-exam", "type": "mcq",
+    "question": "Educational achievements in Kazakhstan during the 1920s–1930s included: (choose two)",
+    "options": [
+      "Experiments with the Kazakh alphabet and script; training of Kazakh educators and scientists",
+      "Opening of madrasahs and revival of Muslim education",
+      "Introduction of English as the language of instruction; study abroad programs in Europe",
+      "Abolition of all schools and replacement with factories"
+    ],
+    "correctIndex": 0,
+    "explanation": "1920s–30s educational achievements: (1) alphabet reform — Arabic (until 1929) → Latin → Cyrillic, enabling mass literacy; (2) training of the first generation of Kazakh Soviet educators, scientists, and cultural figures."
+  },
+  {
+    "id": "fe-135", "topic": "final-exam", "type": "mcq",
+    "question": "Key features of the 1836–1838 Bukey Horde revolt led by Isatai Taimanov were:",
+    "options": [
+      "Religious jihad against Russian Orthodox settlers",
+      "Social protest and anti-feudal sentiment against the khan's entourage and land seizures",
+      "Mongol restorationism and desire to restore the Golden Horde",
+      "Pro-Russian movement against the Kokand Khanate"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Isatai-Makhambet uprising (1836–1838) combined social protest (against oppression by Khan Zhangir's entourage and bai class) with anti-colonial sentiment (against Russian land seizures in the Bukey Horde territory)."
+  }
+]

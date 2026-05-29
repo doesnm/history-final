@@ -98,5 +98,15 @@
     "period": "1991 – present",
     "conceptCount": 9,
     "questionCount": 10
+  },
+  {
+    "slug": "final-exam",
+    "number": 11,
+    "title": "Final Exam Practice: All Topics of Kazakhstan History",
+    "shortTitle": "Final Exam",
+    "emoji": "📝",
+    "period": "All periods",
+    "conceptCount": 8,
+    "questionCount": 135
   }
 ]
