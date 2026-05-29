@@ -1332,5 +1332,362 @@
     ],
     "correctIndex": 1,
     "explanation": "The Isatai-Makhambet uprising (1836–1838) combined social protest (against oppression by Khan Zhangir's entourage and bai class) with anti-colonial sentiment (against Russian land seizures in the Bukey Horde territory)."
+  },
+  {
+    "id": "fe-136", "topic": "final-exam", "type": "mcq",
+    "question": "When was the Kazakh Khanate founded?",
+    "options": ["1218", "1380", "1465", "1500"],
+    "correctIndex": 2,
+    "explanation": "The Kazakh Khanate was founded in 1465 when Janibek Khan and Girey (Kerey) Khan broke away from the Abulkhair Khanate and established an independent state in Zhetysu."
+  },
+  {
+    "id": "fe-137", "topic": "final-exam", "type": "mcq",
+    "question": "Who were the founders of the Kazakh Khanate?",
+    "options": ["Barak Khan and Abulkhair Khan", "Janibek Khan and Girey (Kerey) Khan", "Kasym Khan and Tahir Khan", "Ablai Khan and Baraq Khan"],
+    "correctIndex": 1,
+    "explanation": "The Kazakh Khanate was founded in 1465 by Janibek Khan and Girey (Kerey) Khan, who led a secession from Abulkhair Khan's state and established the new khanate in Zhetysu (Semirechye)."
+  },
+  {
+    "id": "fe-138", "topic": "final-exam", "type": "mcq",
+    "question": "Who were the 'Three Biy' who participated in drafting the Zhety Zhargy legal code?",
+    "options": ["Abulkhair, Ablai, Tauke", "Tole Bi, Kazybek Bi, Aiteke Bi", "Syrym, Isatai, Kenesary", "Bogenbay, Kabanbay, Raiymbek"],
+    "correctIndex": 1,
+    "explanation": "The Zhety Zhargy (Seven Regulations) was drafted under Tauke Khan together with the three great biys representing each Zhuz: Tole Bi (Elder Zhuz), Kazybek Bi (Middle Zhuz), and Aiteke Bi (Junior Zhuz)."
+  },
+  {
+    "id": "fe-139", "topic": "final-exam", "type": "mcq",
+    "question": "In which year did the Elder Zhuz accept Russian citizenship/protectorate?",
+    "options": ["1731", "1740", "1742", "1798", "1820"],
+    "correctIndex": 4,
+    "explanation": "The Junior Zhuz accepted Russian protectorate in 1731 (Abulkhair Khan), the Middle Zhuz in 1740–1742, and the Elder Zhuz last — in 1820, completing the gradual incorporation of all three Zhuz into the Russian Empire."
+  },
+  {
+    "id": "fe-140", "topic": "final-exam", "type": "mcq",
+    "question": "In which year did Khan Abulkhair of the Junior Zhuz petition Russia for a protectorate?",
+    "options": ["1718", "1724", "1731", "1735", "1742"],
+    "correctIndex": 2,
+    "explanation": "In 1731, Abulkhair Khan of the Junior Zhuz sent a petition to Empress Anna Ioannovna requesting Russian military protection against the Dzungar threat, initiating the process of Kazakh incorporation into the Russian Empire."
+  },
+  {
+    "id": "fe-141", "topic": "final-exam", "type": "mcq",
+    "question": "Who led the 1773–1775 Pugachev Rebellion that also affected the Kazakh steppe?",
+    "options": ["Syrym Datov", "Isatai Taimanov", "Yemelyan Pugachev", "Kenesary Kasymov", "Amangeldy Imanov"],
+    "correctIndex": 2,
+    "explanation": "The Pugachev Rebellion (1773–1775), led by Cossack Yemelyan Pugachev, spilled over into the Kazakh steppe. Abulkhair's son Nuraly Khan and some Kazakh groups participated, using the uprising against Russia to reclaim territory."
+  },
+  {
+    "id": "fe-142", "topic": "final-exam", "type": "mcq",
+    "question": "What document abolished the khanate system in the Middle Zhuz in 1822?",
+    "options": ["Steppe Statute 1868", "Charter on Siberian Kirghiz 1822", "Orenburg Statute 1824", "Reform of 1867", "Bukeev Decree 1801"],
+    "correctIndex": 1,
+    "explanation": "The Charter on the Siberian Kirghiz (1822), authored by Mikhail Speransky, abolished the Khan title in the Middle Zhuz and replaced the Kazakh khanate structure with Russian administrative divisions (okrugs and volosts)."
+  },
+  {
+    "id": "fe-143", "topic": "final-exam", "type": "mcq",
+    "question": "Who is considered the last Khan of the Kazakh people?",
+    "options": ["Ablai Khan", "Abulkhair Khan", "Tauke Khan", "Kenesary Kasymov", "Janibek Khan"],
+    "correctIndex": 3,
+    "explanation": "Kenesary Kasymov (r. 1841–1847) is considered the last Khan of the Kazakhs — elected by all three Zhuz, he led the final large-scale uprising against Russian colonization before being killed in battle in 1847."
+  },
+  {
+    "id": "fe-144", "topic": "final-exam", "type": "mcq",
+    "question": "In which year was Kenesary Kasymov killed?",
+    "options": ["1844", "1845", "1847", "1850", "1853"],
+    "correctIndex": 2,
+    "explanation": "Kenesary Khan was killed in 1847 in battle against the Kyrgyz tribes in the Tian Shan mountains, ending the last unified Kazakh armed resistance to Russian colonization."
+  },
+  {
+    "id": "fe-145", "topic": "final-exam", "type": "mcq",
+    "question": "In which year was the capital of Soviet Kazakhstan moved to Alma-Ata?",
+    "options": ["1920", "1925", "1929", "1936", "1941"],
+    "correctIndex": 2,
+    "explanation": "The capital of the Kazakh ASSR was moved from Kyzylorda to Alma-Ata (Almaty) in 1929, which remained Kazakhstan's capital until the move to Astana in 1997."
+  },
+  {
+    "id": "fe-146", "topic": "final-exam", "type": "mcq",
+    "question": "When did Kazakhstan become a full Union Republic (Kazakh SSR)?",
+    "options": ["1920", "1925", "1929", "1936", "1940"],
+    "correctIndex": 3,
+    "explanation": "The Kazakh ASSR was elevated to a full Union Republic — the Kazakh Soviet Socialist Republic (Kazakh SSR) — in December 1936 under the new Stalin Constitution, giving it formal (though not real) sovereignty."
+  },
+  {
+    "id": "fe-147", "topic": "final-exam", "type": "mcq",
+    "question": "What was the Kazakh famine of 1931–1933 called?",
+    "options": ["Holodomor", "Asharshylyk", "Great Terror", "Golod", "Deportation"],
+    "correctIndex": 1,
+    "explanation": "The Kazakh famine of 1930–1933, caused by forced collectivization and livestock confiscation, is called Asharshylyk (meaning 'famine' or 'starvation' in Kazakh) — it killed approximately 1.5 million Kazakhs, around 40% of the entire Kazakh population."
+  },
+  {
+    "id": "fe-148", "topic": "final-exam", "type": "mcq",
+    "question": "Approximately how many Kazakhstanis participated in World War II?",
+    "options": ["~500,000", "~800,000", "~1.2 million", "~1.5 million", "~2 million"],
+    "correctIndex": 2,
+    "explanation": "Approximately 1.2 million people from Kazakhstan participated in WWII, of whom more than 600,000 died. Kazakhstan's contribution was proportionally one of the highest among Soviet republics."
+  },
+  {
+    "id": "fe-149", "topic": "final-exam", "type": "mcq",
+    "question": "Which Kazakh soldiers received the Hero of the Soviet Union title in WWII? (Choose the correct combination)",
+    "options": [
+      "Bauyrzhan Momyshuly and Kanysh Satpayev",
+      "Bauyrzhan Momyshuly and Malik Gabdullin",
+      "Malik Gabdullin and Mukhtar Auezov",
+      "Akhmet Baitursynov and Bauyrzhan Momyshuly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both Bauyrzhan Momyshuly (hero of the Battle of Moscow, 1941) and Malik Gabdullin (author and war hero) were awarded Hero of the Soviet Union. Momyshuly's defense tactics were studied at military academies worldwide."
+  },
+  {
+    "id": "fe-150", "topic": "final-exam", "type": "mcq",
+    "question": "What was the Virgin Lands Campaign?",
+    "options": [
+      "A program to irrigate Central Asian deserts",
+      "Khrushchev's program to cultivate unfarmed steppe lands in Kazakhstan to boost grain production",
+      "A reforestation campaign in Siberia",
+      "An urban development plan for Kazakh cities"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Virgin Lands Campaign (1954–1965) was Khrushchev's initiative to plow millions of hectares of untouched steppe in northern Kazakhstan and southern Siberia to increase Soviet grain production, drastically transforming the Kazakh steppe."
+  },
+  {
+    "id": "fe-151", "topic": "final-exam", "type": "mcq",
+    "question": "In which years was the Virgin Lands Campaign primarily launched?",
+    "options": ["1948–1952", "1950–1955", "1954–1960", "1960–1965", "1965–1970"],
+    "correctIndex": 2,
+    "explanation": "The Virgin Lands Campaign was launched by Khrushchev in 1954 and its main phase of mass plowing ran through 1960, though the campaign continued into the 1960s. Over 25 million hectares of Kazakh steppe were plowed."
+  },
+  {
+    "id": "fe-152", "topic": "final-exam", "type": "mcq",
+    "question": "When was the Semipalatinsk nuclear test site officially closed?",
+    "options": ["1989", "1991", "1993", "1995", "2000"],
+    "correctIndex": 1,
+    "explanation": "President Nazarbayev signed the decree closing the Semipalatinsk nuclear test site on August 29, 1991 — just weeks before Kazakhstan's independence declaration. The date is now observed as International Day Against Nuclear Tests."
+  },
+  {
+    "id": "fe-153", "topic": "final-exam", "type": "mcq",
+    "question": "Who founded the Nevada-Semipalatinsk anti-nuclear movement?",
+    "options": ["Nursultan Nazarbayev", "Olzhas Suleimenov", "Dinmukhamed Kunayev", "Mukhtar Auezov"],
+    "correctIndex": 1,
+    "explanation": "Kazakh poet and public figure Olzhas Suleimenov founded the Nevada-Semipalatinsk movement in February 1989, linking the struggles of communities near US (Nevada) and Soviet (Semipalatinsk) nuclear test sites."
+  },
+  {
+    "id": "fe-154", "topic": "final-exam", "type": "mcq",
+    "question": "Who became the first President of independent Kazakhstan?",
+    "options": ["Dinmukhamed Kunayev", "Nursultan Nazarbayev", "Kassym-Jomart Tokayev", "Alikhan Bukeikhanov"],
+    "correctIndex": 1,
+    "explanation": "Nursultan Nazarbayev was elected the first President of Kazakhstan in 1991 and served until his resignation in 2019, when he was succeeded by Kassym-Jomart Tokayev."
+  },
+  {
+    "id": "fe-155", "topic": "final-exam", "type": "mcq",
+    "question": "When was the current Constitution of Kazakhstan adopted?",
+    "options": ["1991", "1992", "1993", "1995", "1998"],
+    "correctIndex": 3,
+    "explanation": "Kazakhstan's current Constitution was adopted by referendum on August 30, 1995, establishing a presidential republic with a bicameral parliament. A previous constitution had been adopted in 1993."
+  },
+  {
+    "id": "fe-156", "topic": "final-exam", "type": "mcq",
+    "question": "When was Kazakhstan's capital moved from Almaty to Astana?",
+    "options": ["1994", "1996", "1997", "1998", "2000"],
+    "correctIndex": 2,
+    "explanation": "Kazakhstan's capital was officially moved from Almaty to Akmola (renamed Astana) on December 10, 1997. The decision was made for strategic, economic, and geopolitical reasons — the new city was more central and closer to the Russian border."
+  },
+  {
+    "id": "fe-157", "topic": "final-exam", "type": "mcq",
+    "question": "What was the Budapest Memorandum of 1994?",
+    "options": [
+      "A trade agreement between Kazakhstan and the EU",
+      "An agreement by which Kazakhstan gave up its nuclear weapons in exchange for security guarantees from Russia, the USA, and the UK",
+      "A military alliance between post-Soviet states",
+      "A border demarcation treaty with Russia and China"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Budapest Memorandum on Security Assurances (1994) committed Kazakhstan, Ukraine, and Belarus to transfer Soviet nuclear weapons to Russia. In exchange, Russia, the USA, and UK guaranteed their sovereignty and territorial integrity."
+  },
+  {
+    "id": "fe-158", "topic": "final-exam", "type": "mcq",
+    "question": "What were the Jeltoqsan (December) 1986 events in Alma-Ata?",
+    "options": [
+      "A celebration marking Kazakhstan's independence",
+      "Youth protests against the appointment of non-Kazakh Gennady Kolbin as First Secretary of the Communist Party",
+      "A Communist Party congress discussing economic reforms",
+      "The founding congress of the Nevada-Semipalatinsk movement"
+    ],
+    "correctIndex": 1,
+    "explanation": "In December 1986 (Jeltoqsan = December in Kazakh), Kazakh youth took to the streets of Alma-Ata protesting Moscow's appointment of Russian Gennady Kolbin to lead Kazakhstan. The protests were violently suppressed; they are now seen as a precursor to independence."
+  },
+  {
+    "id": "fe-159", "topic": "final-exam", "type": "mcq",
+    "question": "According to Harari's 'Sapiens', approximately when did the Cognitive Revolution occur?",
+    "options": ["2.5 million years ago", "500,000 years ago", "70,000 years ago", "12,000 years ago", "5,000 years ago"],
+    "correctIndex": 2,
+    "explanation": "Harari dates the Cognitive Revolution to approximately 70,000 years ago, when Homo sapiens developed the unique ability to communicate about fictional/abstract concepts, enabling large-scale social cooperation and the rapid spread of Sapiens across the globe."
+  },
+  {
+    "id": "fe-160", "topic": "final-exam", "type": "mcq",
+    "question": "What does Peter Golden's 'Central Asia in World History' identify as nomads' main contribution to world civilization?",
+    "options": [
+      "The invention of writing systems",
+      "The spread of Islam to East Asia",
+      "Facilitation of long-distance trade and cultural exchange via the Silk Road",
+      "Development of irrigated agriculture",
+      "Creation of the first cities"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peter Golden argues that the primary contribution of Central Asian nomads to world history was their role as facilitators of long-distance exchange — connecting China, India, Persia, and Europe through the Silk Road trade networks."
+  },
+  {
+    "id": "fe-161", "topic": "final-exam", "type": "mcq",
+    "question": "What was the significance of the Orkhon inscriptions?",
+    "options": [
+      "They were the first Islamic religious texts in Central Asia",
+      "They are the first written records in a Turkic language, describing the Turkic Khaganate and its rulers",
+      "They constituted the Mongolian law code",
+      "They were Chinese imperial decrees about border governance"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Orkhon inscriptions (8th century CE, Mongolia) are the earliest known texts written in a Turkic language using the runic Old Turkic script. They describe the Göktürk Khaganate, its leaders (Bilge Khan, Kul Tegin), and Tonyukuk's campaigns."
+  },
+  {
+    "id": "fe-162", "topic": "final-exam", "type": "mcq",
+    "question": "Who or what was the 'Golden Man' (Altyn Adam)?",
+    "options": [
+      "A general of Genghis Khan buried in Mongolia",
+      "A Saka warrior discovered in a kurgan near Almaty, dressed in golden ceremonial armor — a symbol of Kazakh heritage",
+      "A Kazakh khan of the 17th century",
+      "An Uzbek ruler of the Timurid dynasty"
+    ],
+    "correctIndex": 1,
+    "explanation": "The 'Golden Man' (Altyn Adam) was discovered in 1969 in the Esik kurgan near Almaty — a Saka warrior (~5th–4th c. BCE) buried in a suit of over 4,000 golden ornaments. It has become the national symbol of Kazakhstan."
+  },
+  {
+    "id": "fe-163", "topic": "final-exam", "type": "mcq",
+    "question": "What was the Otrar catastrophe of 1218?",
+    "options": [
+      "A major earthquake that destroyed the city",
+      "The governor of Otrar executed Mongol trade ambassadors, triggering Genghis Khan's invasion of Central Asia",
+      "A plague that wiped out the city's population",
+      "A flood that destroyed Otrar's agricultural base"
+    ],
+    "correctIndex": 1,
+    "explanation": "In 1218, Inalchuq (Gadir Khan), governor of Otrar under the Khwarazmian Empire, executed ~450 Mongol trade envoys sent by Genghis Khan. This act triggered the full-scale Mongol invasion of Central Asia (1219–1221), resulting in unprecedented destruction."
+  },
+  {
+    "id": "fe-164", "topic": "final-exam", "type": "mcq",
+    "question": "What is the significance of Turkestan (Yassy) in Kazakh history?",
+    "options": [
+      "It was the original founding capital of the Kazakh Khanate",
+      "It is a major spiritual center — home to the mausoleum of Khoja Ahmed Yasawi — and served as the symbolic Kazakh capital",
+      "It was the primary industrial center of Soviet Kazakhstan",
+      "It was a military fortress built against Dzungar invasions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Turkestan (ancient Yassy) is revered as Kazakhstan's spiritual capital — home to the iconic mausoleum of Sufi poet Khoja Ahmed Yasawi (built by Timur, 14th–15th c.). Kazakh Khans were crowned and buried here; it served as a symbolic center of Kazakh statehood."
+  },
+  {
+    "id": "fe-165", "topic": "final-exam", "type": "mcq",
+    "question": "What was the significance of Abai Kunanbayev in Kazakh culture?",
+    "options": [
+      "He was a military commander who defeated Russian colonial forces",
+      "A 19th-century poet and philosopher who modernized Kazakh literature and bridged Kazakh and European culture",
+      "A Russian-appointed governor of the Kazakh steppe",
+      "A religious leader who introduced Islam to the Kazakh nomads"
+    ],
+    "correctIndex": 1,
+    "explanation": "Abai Kunanbayev (1845–1904) is the founder of modern Kazakh written literature. His poetry introduced European and Russian literary forms into Kazakh culture, translated Pushkin and Lermontov, and his 'Book of Words' (Qara Sozder) remains a philosophical masterpiece."
+  },
+  {
+    "id": "fe-166", "topic": "final-exam", "type": "mcq",
+    "question": "What were the main characteristics of the Kazakh traditional nomadic economy? (Choose the correct combination)",
+    "options": [
+      "Large-scale grain cultivation and craft production in urban centers",
+      "Cattle breeding as the primary occupation, seasonal migration following pasture cycles, and self-sufficient household economy based on animal products",
+      "Maritime trade and fishing as the primary occupations",
+      "Sedentary farming supplemented by small-scale herding"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Kazakh nomadic economy rested on three pillars: (1) cattle breeding (horses, sheep, cattle, camels) as the primary activity; (2) seasonal transhumance — following pasture routes (zhaiylau summer / qystau winter); (3) self-sufficient household economy producing food, clothing, and shelter from animal products."
+  },
+  {
+    "id": "fe-167", "topic": "final-exam", "type": "mcq",
+    "question": "Which Kazakh batyrs are most famous for battles against the Dzungars? (Choose the correct combination)",
+    "options": [
+      "Bogenbay Batyr and Kabanbay Batyr",
+      "Raiymbek Batyr and Nauryzbay Batyr",
+      "Olzhabay Batyr and Amangeldy Imanov",
+      "Syrym Datov and Isatai Taimanov"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bogenbay Batyr and Kabanbay Batyr are the most celebrated Kazakh heroes of the anti-Dzungar wars (early–mid 18th century). Bogenbay Batyr served all three Khans (Tauke, Ablai), and Kabanbay Batyr was a hero of the Battle of Anyrakay (1730)."
+  },
+  {
+    "id": "fe-168", "topic": "final-exam", "type": "mcq",
+    "question": "What were the main environmental consequences of Soviet industrial and agricultural policy in Kazakhstan? (Choose the correct combination)",
+    "options": [
+      "Deforestation of the northern taiga and desertification of the east",
+      "Desiccation of the Aral Sea, nuclear contamination from Semipalatinsk, and soil salinization from irrigation",
+      "Reduction of the Caspian Sea and flooding of steppe regions",
+      "Dust storms in the west and flooding of eastern steppes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Three major Soviet environmental disasters in Kazakhstan: (1) Aral Sea desiccation — caused by diverting the Amu Darya and Syr Darya for cotton irrigation; (2) nuclear contamination of the Semipalatinsk region from 456 nuclear tests; (3) soil salinization from large-scale irrigation projects in the south."
+  },
+  {
+    "id": "fe-169", "topic": "final-exam", "type": "mcq",
+    "question": "Which cultural figures were active in Soviet Kazakhstan during the 1920s–1930s? (Choose the correct combination)",
+    "options": [
+      "Mukhtar Auezov, Saken Seifullin, and Ilyas Zhansugurov",
+      "Dinmukhamed Kunayev, Nursultan Nazarbayev, and Kanysh Satpayev",
+      "Alikhan Bukeikhanov, Akhmet Baitursynov, and Mirzhakyp Dulatov",
+      "Roza Rymbayeva, Bolat Ayukhanov, and Ermek Serkebayev"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mukhtar Auezov (novelist, author of the 'Abai' epic), Saken Seifullin (poet, early Soviet Kazakh literary figure), and Ilyas Zhansugurov (poet) were the key literary figures of the 1920s–30s. All three were later arrested and executed during Stalin's purges."
+  },
+  {
+    "id": "fe-170", "topic": "final-exam", "type": "mcq",
+    "question": "What was KARLAG?",
+    "options": [
+      "A Kazakh railway line connecting Karaganda to the Caspian",
+      "The Karaganda forced labor camp complex — one of the largest Gulag institutions in the USSR",
+      "A Kazakh language and culture institute founded in the 1920s",
+      "An agricultural collective near Almaty"
+    ],
+    "correctIndex": 1,
+    "explanation": "KARLAG (Karaganda Camp) was a massive Gulag complex in central Kazakhstan operating from 1931 to 1959. At its peak it held over 65,000 prisoners who mined coal and worked in agriculture. It was one of the largest labor camp systems in the entire Gulag network."
+  },
+  {
+    "id": "fe-171", "topic": "final-exam", "type": "mcq",
+    "question": "What were the three Zhuzes (tribal confederations) of the Kazakh people?",
+    "options": [
+      "Northern Zhuz, Middle Zhuz, Southern Zhuz",
+      "Elder (Uly) Zhuz, Middle (Orta) Zhuz, Junior (Kishi) Zhuz",
+      "Eastern Zhuz, Western Zhuz, Central Zhuz",
+      "Steppe Zhuz, Forest Zhuz, Mountain Zhuz"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Kazakh people were organized into three Zhuzes (confederations of tribes): the Elder (Uly) Zhuz in the southeast, the Middle (Orta) Zhuz in the center and northeast, and the Junior (Kishi) Zhuz in the west. Each had its own Khan and played distinct roles in Kazakh history."
+  },
+  {
+    "id": "fe-172", "topic": "final-exam", "type": "mcq",
+    "question": "Which Neolithic-period tools are characteristic of the prehistoric inhabitants of Kazakhstan? (Choose the correct combination)",
+    "options": [
+      "Bronze swords and iron plows",
+      "Hand axes (bifaces), grain grinders (querns), and adzes",
+      "Chariots and copper shields",
+      "Iron arrowheads and bronze helmets"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Neolithic period (~6000–3500 BCE) in Kazakhstan is characterized by polished stone tools: hand axes/bifaces (for chopping), grain grinders/querns (reflecting early plant processing), and adzes (woodworking tools). Bronze tools came later in the Bronze Age."
+  },
+  {
+    "id": "fe-173", "topic": "final-exam", "type": "mcq",
+    "question": "What was the main argument of Kassenova's 'Atomic Steppe'?",
+    "options": [
+      "Kazakhstan should seek reunification with Russia for security",
+      "The human cost and lasting legacy of Soviet nuclear testing at Semipalatinsk on Kazakh society",
+      "Nuclear energy is a beneficial development tool for Central Asia",
+      "Kazakhstan was a willing partner in Soviet nuclear development"
+    ],
+    "correctIndex": 1,
+    "explanation": "Togzhan Kassenova's 'Atomic Steppe' documents the devastating human cost of 456 Soviet nuclear tests at Semipalatinsk (1949–1989) on Kazakh communities — including radiation illness across generations — and Kazakhstan's decision to renounce nuclear weapons after independence."
   }
 ]
